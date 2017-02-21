@@ -18,7 +18,58 @@
           </childPackages>
         </childPackages>
       </childPackages>
-      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lzPg3EeaYAN_Q8vCkZg" name="CoreContent" guid="_IG9lzPg3EeaYAN_Q8vCkZg"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lzPg3EeaYAN_Q8vCkZg" name="CoreContent" guid="_IG9lzPg3EeaYAN_Q8vCkZg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TKS64Pg4EeaYAN_Q8vCkZg" name="surpport_content" guid="_TKS64Pg4EeaYAN_Q8vCkZg" presentationName="surpport content" briefDescription="focus on surpport content">
+          <methodElementProperty xmi:id="_TKS64fg4EeaYAN_Q8vCkZg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ejYTAPg4EeaYAN_Q8vCkZg" name="pakage_supporting" value="false"/>
+          <methodElementProperty xmi:id="_e7hGMPg4EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_k3xpQPg4EeaYAN_Q8vCkZg" name="project_manager" guid="_k3xpQPg4EeaYAN_Q8vCkZg" presentationName="项目经理">
+            <methodElementProperty xmi:id="_nR0p0Pg4EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_nxvgAPg4EeaYAN_Q8vCkZg" name="system_engineer" guid="_nxvgAPg4EeaYAN_Q8vCkZg" presentationName="系统工程师">
+            <methodElementProperty xmi:id="_7J7csPg4EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_77omcPg4EeaYAN_Q8vCkZg" name="sales" guid="_77omcPg4EeaYAN_Q8vCkZg" presentationName="销售">
+            <methodElementProperty xmi:id="_-w15APg4EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="__XKSIPg4EeaYAN_Q8vCkZg" name="advanced_quality_engineer" guid="__XKSIPg4EeaYAN_Q8vCkZg" presentationName="前期质量工程师">
+            <methodElementProperty xmi:id="_DJzdUPg5EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Fr-fIPg5EeaYAN_Q8vCkZg" name="supplier_quality_engineer" guid="_Fr-fIPg5EeaYAN_Q8vCkZg" presentationName="供应商质量工程师">
+            <methodElementProperty xmi:id="_KFVFAPg5EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_M_w10Pg5EeaYAN_Q8vCkZg" name="purchasor" guid="_M_w10Pg5EeaYAN_Q8vCkZg" presentationName="采购工程师">
+            <methodElementProperty xmi:id="_PlVJ4Pg5EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_eIi7sPg5EeaYAN_Q8vCkZg" name="plant_quality_engineer" guid="_eIi7sPg5EeaYAN_Q8vCkZg" presentationName="生产质量工程师">
+            <methodElementProperty xmi:id="_gpDwoPg5EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iA67cPg5EeaYAN_Q8vCkZg" name="auditor" guid="_iA67cPg5EeaYAN_Q8vCkZg" presentationName="审核员">
+            <methodElementProperty xmi:id="_jDE8APg5EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_kBJGwPg5EeaYAN_Q8vCkZg" name="hardware_engineer" guid="_kBJGwPg5EeaYAN_Q8vCkZg" presentationName="硬件电路工程师">
+            <methodElementProperty xmi:id="_mtNrcPg5EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_wxWNYPg6EeaYAN_Q8vCkZg" name="hardware_test_engineer" guid="_wxWNYPg6EeaYAN_Q8vCkZg" presentationName="硬件测试工程师">
+            <methodElementProperty xmi:id="_03VLUPg6EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_2RteoPg6EeaYAN_Q8vCkZg" name="software_engineer" guid="_2RteoPg6EeaYAN_Q8vCkZg" presentationName="软件工程师">
+            <methodElementProperty xmi:id="_5_k3gPg6EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_779EoPg6EeaYAN_Q8vCkZg" name="software_test_engineer" guid="_779EoPg6EeaYAN_Q8vCkZg" presentationName="软件测试工程师">
+            <methodElementProperty xmi:id="__OoWUPg6EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="__-FdUPg6EeaYAN_Q8vCkZg" name="system_test_engineer" guid="__-FdUPg6EeaYAN_Q8vCkZg" presentationName="系统测试工程师">
+            <methodElementProperty xmi:id="_DA2qwPg7EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HHZpYPg7EeaYAN_Q8vCkZg" name="mechanical_engineer" guid="_HHZpYPg7EeaYAN_Q8vCkZg" presentationName="机械结构工程师">
+            <methodElementProperty xmi:id="_hebngPg7EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_uR1okPg7EeaYAN_Q8vCkZg" name="optic_engineer" guid="_uR1okPg7EeaYAN_Q8vCkZg" presentationName="光学工程师">
+            <methodElementProperty xmi:id="_xUux0Pg7EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IG9lzfg3EeaYAN_Q8vCkZg" name="CapabilityPatterns" guid="_IG9lzfg3EeaYAN_Q8vCkZg"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IG9lzvg3EeaYAN_Q8vCkZg" name="DeliveryProcesses" guid="_IG9lzvg3EeaYAN_Q8vCkZg"/>
