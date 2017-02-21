@@ -8,7 +8,23 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lwvg3EeaYAN_Q8vCkZg" name="Categories" guid="_IG9lwvg3EeaYAN_Q8vCkZg">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lw_g3EeaYAN_Q8vCkZg" name="Domains" guid="_IG9lw_g3EeaYAN_Q8vCkZg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxPg3EeaYAN_Q8vCkZg" name="Disciplines" guid="_IG9lxPg3EeaYAN_Q8vCkZg"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxfg3EeaYAN_Q8vCkZg" name="RoleSets" guid="_IG9lxfg3EeaYAN_Q8vCkZg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxfg3EeaYAN_Q8vCkZg" name="RoleSets" guid="_IG9lxfg3EeaYAN_Q8vCkZg">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_MHykoPg8EeaYAN_Q8vCkZg" name="development" guid="_MHykoPg8EeaYAN_Q8vCkZg" presentationName="研发">
+            <methodElementProperty xmi:id="_Ob9msPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_RLUv8Pg8EeaYAN_Q8vCkZg" name="quality" guid="_RLUv8Pg8EeaYAN_Q8vCkZg" presentationName="质量">
+            <methodElementProperty xmi:id="_SVn_4Pg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_UFxH0Pg8EeaYAN_Q8vCkZg" name="supply_chain" guid="_UFxH0Pg8EeaYAN_Q8vCkZg" presentationName="供应链">
+            <methodElementProperty xmi:id="_Wdt2oPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_X_ImEPg8EeaYAN_Q8vCkZg" name="project_management" guid="_X_ImEPg8EeaYAN_Q8vCkZg" presentationName="项目管理">
+            <methodElementProperty xmi:id="_aVdkQPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_g02CgPg8EeaYAN_Q8vCkZg" name="production" guid="_g02CgPg8EeaYAN_Q8vCkZg" presentationName="生产">
+            <methodElementProperty xmi:id="_jOpLcPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxvg3EeaYAN_Q8vCkZg" name="WP Types" guid="_IG9lxvg3EeaYAN_Q8vCkZg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lx_g3EeaYAN_Q8vCkZg" name="Tools" guid="_IG9lx_g3EeaYAN_Q8vCkZg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lyPg3EeaYAN_Q8vCkZg" name="StandardCategories" guid="_IG9lyPg3EeaYAN_Q8vCkZg"/>
