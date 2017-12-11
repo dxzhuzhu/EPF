@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_UhbnsN6MEeeh_oWj-BfUcQ" guid="_UhbnsN6MEeeh_oWj-BfUcQ">
+    <resourceDescriptors xmi:id="_Uhbnsd6MEeeh_oWj-BfUcQ" id="-Ud_Pvmr0FWFnylx2z2uuOg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_UglTIN6MEeeh_oWj-BfUcQ" name="c9_customer_complain" guid="_UglTIN6MEeeh_oWj-BfUcQ">
+    <methodElementProperty xmi:id="_UglTIt6MEeeh_oWj-BfUcQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_W7NigN6MEeeh_oWj-BfUcQ" name="me_edited" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_UglTId6MEeeh_oWj-BfUcQ" name="c9_customer_complain" guid="_UglTId6MEeeh_oWj-BfUcQ" presentationName="c9客户抱怨">
+      <presentation xmi:id="-Ud_Pvmr0FWFnylx2z2uuOg" href="uma://-Ud_Pvmr0FWFnylx2z2uuOg#-Ud_Pvmr0FWFnylx2z2uuOg"/>
+      <defaultContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+      <validContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

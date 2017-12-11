@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_m5k5IN6LEeeh_oWj-BfUcQ" guid="_m5k5IN6LEeeh_oWj-BfUcQ">
+    <resourceDescriptors xmi:id="_m5k5Id6LEeeh_oWj-BfUcQ" id="-J2o4J-mK8OdpN5DA4w_rww" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m4q6MN6LEeeh_oWj-BfUcQ" name="c6_production_planning" guid="_m4q6MN6LEeeh_oWj-BfUcQ">
+    <methodElementProperty xmi:id="_m4q6Mt6LEeeh_oWj-BfUcQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_pPGmEN6LEeeh_oWj-BfUcQ" name="me_edited" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m4q6Md6LEeeh_oWj-BfUcQ" name="c6_production_planning" guid="_m4q6Md6LEeeh_oWj-BfUcQ" presentationName="c6生产计划">
+      <presentation xmi:id="-J2o4J-mK8OdpN5DA4w_rww" href="uma://-J2o4J-mK8OdpN5DA4w_rww#-J2o4J-mK8OdpN5DA4w_rww"/>
+      <defaultContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+      <validContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

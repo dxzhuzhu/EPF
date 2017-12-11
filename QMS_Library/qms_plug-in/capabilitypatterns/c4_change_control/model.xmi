@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_m6GTAN6KEeeh_oWj-BfUcQ" guid="_m6GTAN6KEeeh_oWj-BfUcQ">
+    <resourceDescriptors xmi:id="_m6GTAd6KEeeh_oWj-BfUcQ" id="-oicG4MKNAfKTZNbhRpmyfQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m5f2EN6KEeeh_oWj-BfUcQ" name="c4_change_control" guid="_m5f2EN6KEeeh_oWj-BfUcQ">
+    <methodElementProperty xmi:id="_m5f2Et6KEeeh_oWj-BfUcQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_pE-PIN6KEeeh_oWj-BfUcQ" name="me_edited" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m5f2Ed6KEeeh_oWj-BfUcQ" name="c4_change_control" guid="_m5f2Ed6KEeeh_oWj-BfUcQ" presentationName="c4变更控制">
+      <presentation xmi:id="-oicG4MKNAfKTZNbhRpmyfQ" href="uma://-oicG4MKNAfKTZNbhRpmyfQ#-oicG4MKNAfKTZNbhRpmyfQ"/>
+      <defaultContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+      <validContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

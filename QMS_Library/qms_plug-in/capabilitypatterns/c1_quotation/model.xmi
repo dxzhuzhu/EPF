@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_qIMcIN6JEeeh_oWj-BfUcQ" guid="_qIMcIN6JEeeh_oWj-BfUcQ">
+    <resourceDescriptors xmi:id="_qINDMN6JEeeh_oWj-BfUcQ" id="-jGF001y5zx4Fr4oBwlZtxQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_qHkKAN6JEeeh_oWj-BfUcQ" name="c1_quotation" guid="_qHkKAN6JEeeh_oWj-BfUcQ">
+    <methodElementProperty xmi:id="_qHkKAt6JEeeh_oWj-BfUcQ" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_K0lZ0N6KEeeh_oWj-BfUcQ" name="me_edited" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_qHkKAd6JEeeh_oWj-BfUcQ" name="c1_quotation" guid="_qHkKAd6JEeeh_oWj-BfUcQ" presentationName="c1报价">
+      <presentation xmi:id="-jGF001y5zx4Fr4oBwlZtxQ" href="uma://-jGF001y5zx4Fr4oBwlZtxQ#-jGF001y5zx4Fr4oBwlZtxQ"/>
+      <defaultContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+      <validContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>
