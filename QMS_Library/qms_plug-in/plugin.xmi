@@ -26,6 +26,9 @@
     <resourceDescriptors xmi:id="_mamosN6MEeeh_oWj-BfUcQ" id="_magiEN6MEeeh_oWj-BfUcQ" uri="capabilitypatterns/c10_customer_satisfaction/model.xmi"/>
     <resourceDescriptors xmi:id="_ogt6MN9IEee7AckLgLwfOg" id="-4XrXlorG2cEd6IVutGNULA" uri="customcategories/qms.xmi"/>
     <resourceDescriptors xmi:id="_apBfsN9KEee7AckLgLwfOg" id="-b_mxLQ5gABcrzkkGXpgWtw" uri="guidances/checklists/new_checklist_1.xmi"/>
+    <resourceDescriptors xmi:id="_YZfewLgfEeiUk4uhAHDtzQ" id="-fGIJM7umHd9KPq54or9kNQ" uri="guidances/supportingmaterials/copyright.xmi"/>
+    <resourceDescriptors xmi:id="_X95ScbggEeiUk4uhAHDtzQ" id="-TUk5R69vtuijEbjctJQ32w" uri="guidances/checklists/hw_checklist.xmi"/>
+    <resourceDescriptors xmi:id="_9t0MsrgmEeiUk4uhAHDtzQ" id="-_z0tQ6ecXm3QrwLRrAkU_g" uri="customcategories/qms.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_IG9lwPg3EeaYAN_Q8vCkZg" name="qms_plug-in" guid="_IG9lwPg3EeaYAN_Q8vCkZg" presentationName="qms_plug-in" briefDescription="qms_plug-in" authors="Jingquan Zhuge&#xD;&#xA;dxzhuzhu@126.com" changeDate="2017-02-21T21:11:06.256+0800" changeDescription="init" version="1.0.0">
     <methodElementProperty xmi:id="_IHB3MPg3EeaYAN_Q8vCkZg" name="plugin_synFree" value="true"/>
@@ -62,15 +65,17 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lyPg3EeaYAN_Q8vCkZg" name="StandardCategories" guid="_IG9lyPg3EeaYAN_Q8vCkZg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lyfg3EeaYAN_Q8vCkZg" name="CustomCategories" guid="_IG9lyfg3EeaYAN_Q8vCkZg">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lyvg3EeaYAN_Q8vCkZg" name="Hidden" guid="_IG9lyvg3EeaYAN_Q8vCkZg">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IG9ly_g3EeaYAN_Q8vCkZg" name="Custom Categories" guid="_IG9ly_g3EeaYAN_Q8vCkZg" categorizedElements="_AEgfMPnMEeaoGrSEpT8uzg"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IG9ly_g3EeaYAN_Q8vCkZg" name="Custom Categories" guid="_IG9ly_g3EeaYAN_Q8vCkZg" categorizedElements="_AEgfMPnMEeaoGrSEpT8uzg _7DZ04LgmEeiUk4uhAHDtzQ"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_AEgfMPnMEeaoGrSEpT8uzg" name="qms_overview" guid="_AEgfMPnMEeaoGrSEpT8uzg" presentationName="QMS Overview" briefDescription="QMS Overview" categorizedElements="_bMiuYN9IEee7AckLgLwfOg">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_AEgfMPnMEeaoGrSEpT8uzg" name="qms_overview" guid="_AEgfMPnMEeaoGrSEpT8uzg" presentationName="QMS Overview" briefDescription="QMS Overview" categorizedElements="_R70QsLgfEeiUk4uhAHDtzQ">
             <methodElementProperty xmi:id="_Dq9BcPnMEeaoGrSEpT8uzg" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_iYMxULgkEeiUk4uhAHDtzQ" name="PUBLISH_CATEGORY" value="true"/>
             <presentation xmi:id="-CZg5sqyOxVINi3HRb7A_WA" href="uma://-CZg5sqyOxVINi3HRb7A_WA#-CZg5sqyOxVINi3HRb7A_WA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_bMiuYN9IEee7AckLgLwfOg" name="qms" guid="_bMiuYN9IEee7AckLgLwfOg" presentationName="QMS">
-            <methodElementProperty xmi:id="_ogeCkN9IEee7AckLgLwfOg" name="me_edited" value="true"/>
-            <presentation xmi:id="-4XrXlorG2cEd6IVutGNULA" href="uma://-4XrXlorG2cEd6IVutGNULA#-4XrXlorG2cEd6IVutGNULA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7DZ04LgmEeiUk4uhAHDtzQ" name="qms" guid="_7DZ04LgmEeiUk4uhAHDtzQ" presentationName="QMS" briefDescription="QMS" categorizedElements="_AEgfMPnMEeaoGrSEpT8uzg">
+            <methodElementProperty xmi:id="_9t0MsLgmEeiUk4uhAHDtzQ" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_DNqgkLgnEeiUk4uhAHDtzQ" name="PUBLISH_CATEGORY" value="true"/>
+            <presentation xmi:id="-_z0tQ6ecXm3QrwLRrAkU_g" href="uma://-_z0tQ6ecXm3QrwLRrAkU_g#-_z0tQ6ecXm3QrwLRrAkU_g"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -211,9 +216,13 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_qbBG8N6IEeeh_oWj-BfUcQ" name="customer" guid="_qbBG8N6IEeeh_oWj-BfUcQ" presentationName="客户">
             <methodElementProperty xmi:id="_sdNBIN6IEeeh_oWj-BfUcQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_Wyn14N9KEee7AckLgLwfOg" name="new_checklist_1" guid="_Wyn14N9KEee7AckLgLwfOg" presentationName="New Checklist 1">
-            <methodElementProperty xmi:id="_ZA9VsN9KEee7AckLgLwfOg" name="me_edited" value="true"/>
-            <presentation xmi:id="-b_mxLQ5gABcrzkkGXpgWtw" href="uma://-b_mxLQ5gABcrzkkGXpgWtw#-b_mxLQ5gABcrzkkGXpgWtw"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_R70QsLgfEeiUk4uhAHDtzQ" name="copyright" guid="_R70QsLgfEeiUk4uhAHDtzQ" presentationName="CopyRight" briefDescription="CopyRight">
+            <methodElementProperty xmi:id="_YZZYILgfEeiUk4uhAHDtzQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fGIJM7umHd9KPq54or9kNQ" href="uma://-fGIJM7umHd9KPq54or9kNQ#-fGIJM7umHd9KPq54or9kNQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_LgTJULggEeiUk4uhAHDtzQ" name="hw_checklist" guid="_LgTJULggEeiUk4uhAHDtzQ" presentationName="HW Checklist" briefDescription="HW Checklist">
+            <methodElementProperty xmi:id="_Nd--ALggEeiUk4uhAHDtzQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-TUk5R69vtuijEbjctJQ32w" href="uma://-TUk5R69vtuijEbjctJQ32w#-TUk5R69vtuijEbjctJQ32w"/>
           </contentElements>
         </childPackages>
       </childPackages>

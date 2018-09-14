@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CZg5sqyOxVINi3HRb7A_WA" name="new_custom_category,_AEgfMPnMEeaoGrSEpT8uzg" guid="-CZg5sqyOxVINi3HRb7A_WA" changeDate="2017-12-12T22:21:19.307+0800">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CZg5sqyOxVINi3HRb7A_WA" name="new_custom_category,_AEgfMPnMEeaoGrSEpT8uzg" guid="-CZg5sqyOxVINi3HRb7A_WA" authors="dxzhuzhu" changeDate="2018-09-14T21:07:52.219+0800" changeDescription="init." version="1.0.0">
+  <copyrightStatement href="uma://_IG9lwPg3EeaYAN_Q8vCkZg#_R70QsLgfEeiUk4uhAHDtzQ"/>
   <mainDescription>&lt;map id=&quot;image1_1&quot; name=&quot;image1_1&quot;>&#xD;
     &lt;area href=&quot;#C0&quot; shape=&quot;rect&quot; coords=&quot;3,97,144,116&quot; />&#xD;
     &lt;area href=&quot;#S1&quot; shape=&quot;rect&quot; coords=&quot;345,421,433,436&quot; />&#xD;

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TUk5R69vtuijEbjctJQ32w" name="new_checklist,_LgTJULggEeiUk4uhAHDtzQ" guid="-TUk5R69vtuijEbjctJQ32w" authors="dxzhuzhu" changeDate="2018-09-14T21:16:21.997+0800" changeDescription="init" version="1.0.0">
+  <copyrightStatement href="uma://_IG9lwPg3EeaYAN_Q8vCkZg#_R70QsLgfEeiUk4uhAHDtzQ"/>
+  <mainDescription>HW Checklist 电路原理图设计检查单，在电路设计评审时使用。</mainDescription>
+  <sections xmi:id="_jO1bMLggEeiUk4uhAHDtzQ" name="电路板编号是否登记" guid="_jO1bMLggEeiUk4uhAHDtzQ">
+    <sectionDescription>&lt;p>&#xD;
+    是否在零件编号登记表上登记了零件编号？&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_4pFWQLggEeiUk4uhAHDtzQ" name="印制板制板规范准备好了么" guid="_4pFWQLggEeiUk4uhAHDtzQ">
+    <sectionDescription>印制板制板规范准备好了么</sectionDescription>
+  </sections>
+  <sections xmi:id="_-e_ZsLggEeiUk4uhAHDtzQ" name="电路BOM准备好了么" guid="_-e_ZsLggEeiUk4uhAHDtzQ">
+    <sectionDescription>电路BOM准备好了么，表格格式对么？</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:ContentDescription>

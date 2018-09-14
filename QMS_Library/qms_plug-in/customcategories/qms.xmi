@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_z0tQ6ecXm3QrwLRrAkU_g" name="new_custom_category,_7DZ04LgmEeiUk4uhAHDtzQ" guid="-_z0tQ6ecXm3QrwLRrAkU_g" changeDate="2018-09-14T22:03:23.436+0800">
+  <mainDescription>QMS</mainDescription>
+  <keyConsiderations>QMS</keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>
