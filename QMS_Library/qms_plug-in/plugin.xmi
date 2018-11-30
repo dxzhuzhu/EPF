@@ -38,26 +38,65 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lw_g3EeaYAN_Q8vCkZg" name="Domains" guid="_IG9lw_g3EeaYAN_Q8vCkZg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxPg3EeaYAN_Q8vCkZg" name="Disciplines" guid="_IG9lxPg3EeaYAN_Q8vCkZg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxfg3EeaYAN_Q8vCkZg" name="RoleSets" guid="_IG9lxfg3EeaYAN_Q8vCkZg">
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_MHykoPg8EeaYAN_Q8vCkZg" name="product_development" guid="_MHykoPg8EeaYAN_Q8vCkZg" presentationName="产品设计">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_MHykoPg8EeaYAN_Q8vCkZg" name="product_development" guid="_MHykoPg8EeaYAN_Q8vCkZg" presentationName="产品设计" roleSets="_0KwosPSYEeiC6OxrL3vFfg _TU8dsPSiEeiC6OxrL3vFfg _cQNvkPSiEeiC6OxrL3vFfg _u0MBEPSiEeiC6OxrL3vFfg _NK3EkPSjEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_Ob9msPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_RLUv8Pg8EeaYAN_Q8vCkZg" name="quality" guid="_RLUv8Pg8EeaYAN_Q8vCkZg" presentationName="质量">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_RLUv8Pg8EeaYAN_Q8vCkZg" name="quality" guid="_RLUv8Pg8EeaYAN_Q8vCkZg" presentationName="质量" roleSets="_WcLqgPSZEeiC6OxrL3vFfg _BiS7cPSiEeiC6OxrL3vFfg _4Pfd4PSiEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_SVn_4Pg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_UFxH0Pg8EeaYAN_Q8vCkZg" name="supply_chain" guid="_UFxH0Pg8EeaYAN_Q8vCkZg" presentationName="供应链">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_UFxH0Pg8EeaYAN_Q8vCkZg" name="supply_chain" guid="_UFxH0Pg8EeaYAN_Q8vCkZg" presentationName="供应链" roleSets="_dDYWEPSbEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_Wdt2oPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_X_ImEPg8EeaYAN_Q8vCkZg" name="project_management" guid="_X_ImEPg8EeaYAN_Q8vCkZg" presentationName="项目管理">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_X_ImEPg8EeaYAN_Q8vCkZg" name="project_management" guid="_X_ImEPg8EeaYAN_Q8vCkZg" presentationName="项目管理" roleSets="_sP_bcPShEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_aVdkQPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_g02CgPg8EeaYAN_Q8vCkZg" name="production" guid="_g02CgPg8EeaYAN_Q8vCkZg" presentationName="生产">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_g02CgPg8EeaYAN_Q8vCkZg" name="production" guid="_g02CgPg8EeaYAN_Q8vCkZg" presentationName="生产" roleSets="_IxG6QPScEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_jOpLcPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_e8UFcN58Eeeh_oWj-BfUcQ" name="process_development" guid="_e8UFcN58Eeeh_oWj-BfUcQ" presentationName="过程设计(工艺)">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_e8UFcN58Eeeh_oWj-BfUcQ" name="process_development" guid="_e8UFcN58Eeeh_oWj-BfUcQ" presentationName="过程设计(工艺)" roleSets="_4e_WoPSbEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_ns2uAN58Eeeh_oWj-BfUcQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_q4xMMN6DEeeh_oWj-BfUcQ" name="sales" guid="_q4xMMN6DEeeh_oWj-BfUcQ" presentationName="销售">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_q4xMMN6DEeeh_oWj-BfUcQ" name="sales" guid="_q4xMMN6DEeeh_oWj-BfUcQ" presentationName="销售" roleSets="_4-3h0PShEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_rtJPcN6DEeeh_oWj-BfUcQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_0KwosPSYEeiC6OxrL3vFfg" name="mechanical_design" guid="_0KwosPSYEeiC6OxrL3vFfg" presentationName="机械结构设计" roles="_HHZpYPg7EeaYAN_Q8vCkZg _TsCKYN6EEeeh_oWj-BfUcQ">
+            <methodElementProperty xmi:id="_GA2ggPSZEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_WcLqgPSZEeiC6OxrL3vFfg" name="quality_engineering" guid="_WcLqgPSZEeiC6OxrL3vFfg" presentationName="质量工程师" briefDescription="质量工程师" roles="__XKSIPg4EeaYAN_Q8vCkZg _Fr-fIPg5EeaYAN_Q8vCkZg __vnG8N59Eeeh_oWj-BfUcQ _eIi7sPg5EeaYAN_Q8vCkZg _GylywN6EEeeh_oWj-BfUcQ">
+            <methodElementProperty xmi:id="_dNBsMPSZEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_dDYWEPSbEeiC6OxrL3vFfg" name="supply_chain" guid="_dDYWEPSbEeiC6OxrL3vFfg" presentationName="供应链" roles="_M_w10Pg5EeaYAN_Q8vCkZg _dRCkgN5-Eeeh_oWj-BfUcQ __PmUsN5-Eeeh_oWj-BfUcQ">
+            <methodElementProperty xmi:id="_hl7UMPSbEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_4e_WoPSbEeiC6OxrL3vFfg" name="process_engineer" guid="_4e_WoPSbEeiC6OxrL3vFfg" presentationName="工艺工程师" roles="_zk2LgN6DEeeh_oWj-BfUcQ _xAZ9AN58Eeeh_oWj-BfUcQ">
+            <methodElementProperty xmi:id="_Cg45YPScEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_IxG6QPScEeiC6OxrL3vFfg" name="production" guid="_IxG6QPScEeiC6OxrL3vFfg" presentationName="生产" roles="_peo7EN6EEeeh_oWj-BfUcQ _Vo-Q0N6HEeeh_oWj-BfUcQ _jDtXoN6HEeeh_oWj-BfUcQ">
+            <methodElementProperty xmi:id="_N-Q7oPScEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_sP_bcPShEeiC6OxrL3vFfg" name="project_management" guid="_sP_bcPShEeiC6OxrL3vFfg" presentationName="项目管理" roles="_IeRmkN6GEeeh_oWj-BfUcQ _k3xpQPg4EeaYAN_Q8vCkZg">
+            <methodElementProperty xmi:id="_wXbK4PShEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_4-3h0PShEeiC6OxrL3vFfg" name="sales" guid="_4-3h0PShEeiC6OxrL3vFfg" presentationName="销售">
+            <methodElementProperty xmi:id="_7gZDYPShEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_BiS7cPSiEeiC6OxrL3vFfg" name="inspector" guid="_BiS7cPSiEeiC6OxrL3vFfg" presentationName="检验" roles="_lnts0N6EEeeh_oWj-BfUcQ _eAF3UN6IEeeh_oWj-BfUcQ">
+            <methodElementProperty xmi:id="_ECeZMPSiEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_TU8dsPSiEeiC6OxrL3vFfg" name="optic_design" guid="_TU8dsPSiEeiC6OxrL3vFfg" presentationName="光学设计" roles="_ObrEAN6EEeeh_oWj-BfUcQ _uR1okPg7EeaYAN_Q8vCkZg">
+            <methodElementProperty xmi:id="_Wx6T0PSiEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_cQNvkPSiEeiC6OxrL3vFfg" name="hardware_design" guid="_cQNvkPSiEeiC6OxrL3vFfg" presentationName="硬件电路设计">
+            <methodElementProperty xmi:id="_fZgbwPSiEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_u0MBEPSiEeiC6OxrL3vFfg" name="software_development" guid="_u0MBEPSiEeiC6OxrL3vFfg" presentationName="软件开发" roles="_bQah0N6EEeeh_oWj-BfUcQ _2RteoPg6EeaYAN_Q8vCkZg">
+            <methodElementProperty xmi:id="_zmFp0PSiEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_4Pfd4PSiEeiC6OxrL3vFfg" name="software_test" guid="_4Pfd4PSiEeiC6OxrL3vFfg" presentationName="软件测试" briefDescription="软件测试">
+            <methodElementProperty xmi:id="__r_rsPSiEeiC6OxrL3vFfg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_NK3EkPSjEeiC6OxrL3vFfg" name="system_engineering" guid="_NK3EkPSjEeiC6OxrL3vFfg" presentationName="系统设计" briefDescription="系统设计" roles="_9OlQcN6EEeeh_oWj-BfUcQ __-FdUPg6EeaYAN_Q8vCkZg _nxvgAPg4EeaYAN_Q8vCkZg">
+            <methodElementProperty xmi:id="_Q5Qo8PSjEeiC6OxrL3vFfg" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxvg3EeaYAN_Q8vCkZg" name="WP Types" guid="_IG9lxvg3EeaYAN_Q8vCkZg"/>
