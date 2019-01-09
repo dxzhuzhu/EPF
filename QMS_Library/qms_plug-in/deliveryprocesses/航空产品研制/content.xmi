@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-0hRBoDBniVXUsjKLRgLxfQ" name="航空产品研制,_Jo61UQ2xEemaPdAhYonWNg" guid="-0hRBoDBniVXUsjKLRgLxfQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-xB0XyXjx4USxVI6QSjw-Fg" name="系统开发,_aRzEoQqnEemmH8QRWd_T5A" guid="-xB0XyXjx4USxVI6QSjw-Fg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GAexot_fIzEoelzEW71ayQ" name="系统设计,_kGSdgAqnEemmH8QRWd_T5A" guid="-GAexot_fIzEoelzEW71ayQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6ULYlRmeCrPcGJGegjuQww" name="requirements,_kGYkIQqnEemmH8QRWd_T5A" guid="-6ULYlRmeCrPcGJGegjuQww"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-txUkQ5p0cjhA-5OPpcvLfg" name="架构设计说明,_kGYkIwqnEemmH8QRWd_T5A" guid="-txUkQ5p0cjhA-5OPpcvLfg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mIQHXqXNqZNgEpdNinwZxw" name="收集需求,_lCdx4AqnEemmH8QRWd_T5A" guid="-mIQHXqXNqZNgEpdNinwZxw"/>
+</xmi:XMI>

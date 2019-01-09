@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-NB6V6TVjo4nrIDNMr0HFgQ" name="系统开发,_aRzEoQqnEemmH8QRWd_T5A" guid="-NB6V6TVjo4nrIDNMr0HFgQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kG3-8dhtk17ZSI9Pmadezg" name="requirements,_kGYkIQqnEemmH8QRWd_T5A" guid="-kG3-8dhtk17ZSI9Pmadezg">
+    <keyConsiderations>需求说明</keyConsiderations>
+    <refinedDescription>需求说明</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MK5Ug_zidotCslbHcPqwOQ" name="架构设计说明,_kGYkIwqnEemmH8QRWd_T5A" guid="-MK5Ug_zidotCslbHcPqwOQ">
+    <keyConsiderations>系统设计说明</keyConsiderations>
+    <refinedDescription>系统设计说明</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tsBnovE1Ew2e58rHmA7m3w" name="收集需求,_lCdx4AqnEemmH8QRWd_T5A" guid="-tsBnovE1Ew2e58rHmA7m3w">
+    <keyConsiderations>收集需求</keyConsiderations>
+    <refinedDescription>收集需求</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AvYqPcRGzPlXSY5mtcCjlA" name="系统设计,_kGSdgAqnEemmH8QRWd_T5A" guid="-AvYqPcRGzPlXSY5mtcCjlA">
+    <keyConsiderations>系统设计</keyConsiderations>
+    <refinedDescription>系统设计</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

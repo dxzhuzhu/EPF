@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 QMS_Processes_Relationship.svg QMS_Overview -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="23.3858in" height="16.5354in" viewBox="0 0 1683.78 1190.55" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st15">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#a4def4;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#000000;font-family:黑体;font-size:1.5em}
+		.st3 {fill:#92d050;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#d8d8d8;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st5 {fill:#ffff00;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st6 {font-size:1em}
+		.st7 {marker-end:url(#mrkr4-27);stroke:#0083b9;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.5}
+		.st8 {fill:#0083b9;fill-opacity:1;stroke:#0083b9;stroke-opacity:1;stroke-width:0.64102564102564}
+		.st9 {marker-end:url(#mrkr4-27);stroke:#0083b9;stroke-dasharray:4.5,9;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.5}
+		.st10 {marker-end:url(#mrkr4-146);stroke:#0083b9;stroke-dasharray:10.5,7.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st11 {fill:#0083b9;fill-opacity:1;stroke:#0083b9;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st12 {marker-end:url(#mrkr4-304);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.5}
+		.st13 {fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;stroke-width:0.64102564102564}
+		.st14 {marker-end:url(#mrkr13-339);marker-start:url(#mrkr13-337);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.5}
+		.st15 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-27" class="st8" refX="-3.12" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-1.56,-1.56) "/>
+		</marker>
+		<marker id="mrkr4-146" class="st11" refX="-5.36" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.68,-2.68) "/>
+		</marker>
+		<marker id="mrkr4-304" class="st13" refX="-3.12" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-1.56,-1.56) "/>
+		</marker>
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-337" class="st13" refX="4.6" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(1.56) "/>
+		</marker>
+		<marker id="mrkr13-339" class="st13" refX="-4.68" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-1.56,-1.56) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>QMS_Overview</title>
+		<g id="shape1-1" transform="translate(18,-70.8661)">
+			<title>流程</title>
+			<desc>COP顾客导向</desc>
+			<rect x="0" y="1148.03" width="127.843" height="42.5197" class="st1"/>
+			<text x="14.42" y="1174.69" class="st2">COP顾客导向</text>		</g>
+		<g id="shape2-4" transform="translate(166.677,-70.8661)">
+			<title>流程.2</title>
+			<desc>MP管理过程</desc>
+			<rect x="0" y="1148.03" width="127.843" height="42.5197" class="st3"/>
+			<text x="18.92" y="1174.69" class="st2">MP管理过程</text>		</g>
+		<g id="shape3-7" transform="translate(315.354,-70.8661)">
+			<title>流程.3</title>
+			<desc>SP支持过程</desc>
+			<rect x="0" y="1148.03" width="127.843" height="42.5197" class="st4"/>
+			<text x="18.92" y="1174.69" class="st2">SP支持过程</text>		</g>
+		<g id="shape4-10" transform="translate(464.032,-70.8661)">
+			<title>流程.4</title>
+			<desc>参考</desc>
+			<rect x="0" y="1148.03" width="127.843" height="42.5197" class="st5"/>
+			<text x="45.92" y="1174.69" class="st2">参考</text>		</g>
+		<g id="shape6-13" transform="translate(18,-488.976)">
+			<title>流程.6</title>
+			<desc>C0-市场开发</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st1"/>
+			<text x="5.28" y="1174.69" class="st2">C0-市场开发</text>		</g>
+		<g id="shape7-16" transform="translate(155.906,-278.15)">
+			<title>流程.7</title>
+			<desc>客户需求</desc>
+			<rect x="0" y="726.378" width="38.6929" height="464.173" class="st1"/>
+			<text x="10.35" y="931.46" class="st2">客<tspan x="10.35" dy="1.2em" class="st6">户</tspan><tspan x="10.35" dy="1.2em"
+						class="st6">需</tspan><tspan x="10.35" dy="1.2em" class="st6">求</tspan></text>		</g>
+		<g id="shape8-22" transform="translate(127.559,-503.15)">
+			<title>动态连接线</title>
+			<path d="M0 1183.46 L14.31 1183.46" class="st7"/>
+		</g>
+		<g id="shape9-28" transform="translate(226.772,-488.976)">
+			<title>流程.9</title>
+			<desc>C1-报价</desc>
+			<rect x="0" y="1148.03" width="74.6929" height="42.5197" class="st1"/>
+			<text x="5.85" y="1174.69" class="st2">C1-报价</text>		</g>
+		<g id="shape10-31" transform="translate(194.598,-503.15)">
+			<title>动态连接线.10</title>
+			<path d="M0 1183.46 L18.13 1183.46" class="st7"/>
+		</g>
+		<g id="shape13-36" transform="translate(333.638,-488.976)">
+			<title>流程.13</title>
+			<desc>C2-APQP研发</desc>
+			<rect x="0" y="1148.03" width="190.772" height="42.5197" class="st1"/>
+			<text x="45.89" y="1174.69" class="st2">C2-APQP研发</text>		</g>
+		<g id="shape14-39" transform="translate(301.465,-503.15)">
+			<title>动态连接线.14</title>
+			<path d="M0 1183.46 L18.13 1183.46" class="st7"/>
+		</g>
+		<g id="shape15-44" transform="translate(558.496,-488.976)">
+			<title>流程.15</title>
+			<desc>C3-订单评审</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st1"/>
+			<text x="5.28" y="1174.69" class="st2">C3-订单评审</text>		</g>
+		<g id="shape16-47" transform="translate(524.409,-503.15)">
+			<title>动态连接线.16</title>
+			<path d="M0 1183.46 L20.05 1183.46" class="st7"/>
+		</g>
+		<g id="shape17-52" transform="translate(700.228,-488.976)">
+			<title>流程.17</title>
+			<desc>C4-生产计划</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st1"/>
+			<text x="5.28" y="1174.69" class="st2">C4-生产计划</text>		</g>
+		<g id="shape18-55" transform="translate(841.961,-488.976)">
+			<title>流程.18</title>
+			<desc>C5-生产过程</desc>
+			<rect x="0" y="1148.03" width="547.016" height="42.5197" class="st1"/>
+			<text x="224.01" y="1174.69" class="st2">C5-生产过程</text>		</g>
+		<g id="shape19-58" transform="translate(1428.66,-488.976)">
+			<title>流程.19</title>
+			<desc>C6-产品交付</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st1"/>
+			<text x="5.28" y="1174.69" class="st2">C6-产品交付</text>		</g>
+		<g id="shape22-61" transform="translate(1579.82,-278.15)">
+			<title>流程.22</title>
+			<desc>客户满意</desc>
+			<rect x="0" y="726.378" width="38.6929" height="464.173" class="st1"/>
+			<text x="10.35" y="931.46" class="st2">客<tspan x="10.35" dy="1.2em" class="st6">户</tspan><tspan x="10.35" dy="1.2em"
+						class="st6">满</tspan><tspan x="10.35" dy="1.2em" class="st6">意</tspan></text>		</g>
+		<g id="shape23-67" transform="translate(668.055,-503.15)">
+			<title>动态连接线.23</title>
+			<path d="M0 1183.46 L18.13 1183.46" class="st7"/>
+		</g>
+		<g id="shape24-72" transform="translate(809.787,-503.15)">
+			<title>动态连接线.24</title>
+			<path d="M0 1183.46 L18.13 1183.46" class="st7"/>
+		</g>
+		<g id="shape25-77" transform="translate(1388.98,-503.15)">
+			<title>动态连接线.25</title>
+			<path d="M0 1183.46 L25.65 1183.46" class="st7"/>
+		</g>
+		<g id="shape26-82" transform="translate(1538.22,-503.15)">
+			<title>动态连接线.26</title>
+			<path d="M0 1183.46 L27.56 1183.46" class="st7"/>
+		</g>
+		<g id="shape27-87" transform="translate(279.85,-396.85)">
+			<title>流程.27</title>
+			<desc>APQP</desc>
+			<rect x="0" y="1148.03" width="63.9213" height="42.5197" class="st5"/>
+			<text x="13.96" y="1174.69" class="st2">APQP</text>		</g>
+		<g id="shape28-90" transform="translate(279.85,-340.157)">
+			<title>流程.28</title>
+			<desc>FMEA</desc>
+			<rect x="0" y="1148.03" width="63.9213" height="42.5197" class="st5"/>
+			<text x="13.96" y="1174.69" class="st2">FMEA</text>		</g>
+		<g id="shape29-93" transform="translate(279.85,-283.465)">
+			<title>流程.29</title>
+			<desc>SPC</desc>
+			<rect x="0" y="1148.03" width="63.9213" height="42.5197" class="st5"/>
+			<text x="18.46" y="1174.69" class="st2">SPC</text>		</g>
+		<g id="shape30-96" transform="translate(279.85,-226.772)">
+			<title>流程.30</title>
+			<desc>MSA</desc>
+			<rect x="0" y="1148.03" width="63.9213" height="42.5197" class="st5"/>
+			<text x="18.46" y="1174.69" class="st2">MSA</text>		</g>
+		<g id="shape31-99" transform="translate(279.85,-170.079)">
+			<title>流程.31</title>
+			<desc>PPAP</desc>
+			<rect x="0" y="1148.03" width="63.9213" height="42.5197" class="st5"/>
+			<text x="13.96" y="1174.69" class="st2">PPAP</text>		</g>
+		<g id="shape33-102" transform="translate(343.772,-418.11)">
+			<title>动态连接线.33</title>
+			<path d="M0 1190.55 L24.73 1190.55 L24.73 1133.73" class="st9"/>
+		</g>
+		<g id="shape34-107" transform="translate(343.772,-361.417)">
+			<title>动态连接线.34</title>
+			<path d="M0 1190.55 L24.73 1190.55 L24.73 1077.03" class="st9"/>
+		</g>
+		<g id="shape35-112" transform="translate(343.772,-304.724)">
+			<title>动态连接线.35</title>
+			<path d="M0 1190.55 L24.73 1190.55 L24.73 1020.34" class="st9"/>
+		</g>
+		<g id="shape36-117" transform="translate(343.772,-248.031)">
+			<title>动态连接线.36</title>
+			<path d="M0 1190.55 L24.73 1190.55 L24.73 963.65" class="st9"/>
+		</g>
+		<g id="shape37-122" transform="translate(343.772,-191.339)">
+			<title>动态连接线.37</title>
+			<path d="M0 1190.55 L24.73 1190.55 L24.73 906.95" class="st9"/>
+		</g>
+		<g id="shape38-127" transform="translate(374.244,-311.811)">
+			<title>流程.38</title>
+			<desc>C7-样机制造</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st1"/>
+			<text x="5.28" y="1174.69" class="st2">C7-样机制造</text>		</g>
+		<g id="shape39-130" transform="translate(421.937,-488.976)">
+			<title>动态连接线.39</title>
+			<path d="M7.09 1190.55 L7.09 1311.16" class="st7"/>
+		</g>
+		<g id="shape42-135" transform="translate(374.244,-729.921)">
+			<title>流程.42</title>
+			<desc>C8-变更控制</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st1"/>
+			<text x="5.28" y="1174.69" class="st2">C8-变更控制</text>		</g>
+		<g id="shape43-138" transform="translate(356.457,-622.205)">
+			<title>流程.43</title>
+			<desc>S3-技术资料管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st4"/>
+			<text x="5.07" y="1174.69" class="st2">S3-技术资料管理</text>		</g>
+		<g id="shape44-141" transform="translate(421.937,-531.496)">
+			<title>动态连接线.44</title>
+			<path d="M7.09 1190.55 L7.09 1107.88" class="st10"/>
+		</g>
+		<g id="shape45-147" transform="translate(421.937,-729.921)">
+			<title>动态连接线.45</title>
+			<path d="M7.09 1190.55 L7.09 1247.71" class="st10"/>
+		</g>
+		<g id="shape46-152" transform="translate(540.709,-681.732)">
+			<title>流程.46</title>
+			<desc>S1-文件控制</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st4"/>
+			<text x="23.07" y="1174.69" class="st2">S1-文件控制</text>		</g>
+		<g id="shape47-155" transform="translate(613.276,-681.732)">
+			<title>动态连接线.47</title>
+			<path d="M0 1190.55 L0 1228.82 L-103.65 1228.82" class="st10"/>
+		</g>
+		<g id="shape48-160" transform="translate(524.976,-574.016)">
+			<title>流程.48</title>
+			<desc>S2-记录与数据控制</desc>
+			<rect x="0" y="1148.03" width="176.598" height="42.5197" class="st4"/>
+			<text x="11.8" y="1174.69" class="st2">S2-记录与数据控制</text>		</g>
+		<g id="shape49-163" transform="translate(606.189,-681.732)">
+			<title>动态连接线.49</title>
+			<path d="M7.09 1190.55 L7.09 1247.71" class="st10"/>
+		</g>
+		<g id="shape50-168" transform="translate(1051.56,-141.732)">
+			<title>流程.50</title>
+			<desc>S6-供应商管理</desc>
+			<rect x="0" y="1148.03" width="127.807" height="42.5197" class="st4"/>
+			<text x="5.4" y="1174.69" class="st2">S6-供应商管理</text>		</g>
+		<g id="shape51-171" transform="translate(1060.69,-226.772)">
+			<title>流程.51</title>
+			<desc>S7-采购管理</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st4"/>
+			<text x="5.28" y="1174.69" class="st2">S7-采购管理</text>		</g>
+		<g id="shape52-174" transform="translate(1060.69,-311.811)">
+			<title>流程.52</title>
+			<desc>S9-进料检验</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st4"/>
+			<text x="5.28" y="1174.69" class="st2">S9-进料检验</text>		</g>
+		<g id="shape53-177" transform="translate(1060.69,-396.85)">
+			<title>流程.53</title>
+			<desc>S8-外协管理</desc>
+			<rect x="0" y="1148.03" width="109.559" height="42.5197" class="st4"/>
+			<text x="5.28" y="1174.69" class="st2">S8-外协管理</text>		</g>
+		<g id="shape54-180" transform="translate(1122.56,-488.976)">
+			<title>动态连接线.54</title>
+			<path d="M-7.09 1190.55 L-7.09 1226.12" class="st7"/>
+		</g>
+		<g id="shape55-185" transform="translate(1108.38,-396.85)">
+			<title>动态连接线.55</title>
+			<path d="M7.09 1190.55 L7.09 1219.03" class="st7"/>
+		</g>
+		<g id="shape56-190" transform="translate(1108.38,-269.291)">
+			<title>动态连接线.56</title>
+			<path d="M7.09 1190.55 L7.09 1162.07" class="st7"/>
+		</g>
+		<g id="shape57-195" transform="translate(1108.38,-184.252)">
+			<title>动态连接线.57</title>
+			<path d="M7.09 1190.55 L7.09 1162.07" class="st7"/>
+		</g>
+		<g id="shape58-200" transform="translate(682.441,-311.811)">
+			<title>流程.58</title>
+			<desc>S12-仓储管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st4"/>
+			<text x="18.57" y="1174.69" class="st2">S12-仓储管理</text>		</g>
+		<g id="shape59-203" transform="translate(1060.69,-325.984)">
+			<title>动态连接线.59</title>
+			<path d="M0 1183.46 L-219.07 1183.46" class="st7"/>
+		</g>
+		<g id="shape60-208" transform="translate(747.921,-354.331)">
+			<title>动态连接线.60</title>
+			<path d="M7.09 1190.55 L7.09 1069.95" class="st7"/>
+		</g>
+		<g id="shape62-213" transform="translate(682.441,-325.984)">
+			<title>动态连接线.62</title>
+			<path d="M0 1183.46 L-184.6 1183.46" class="st7"/>
+		</g>
+		<g id="shape63-218" transform="translate(875.126,-396.85)">
+			<title>流程.63</title>
+			<desc>SPC</desc>
+			<rect x="0" y="1148.03" width="63.9213" height="42.5197" class="st5"/>
+			<text x="18.46" y="1174.69" class="st2">SPC</text>		</g>
+		<g id="shape66-221" transform="translate(913.896,-439.37)">
+			<title>动态连接线.66</title>
+			<path d="M-6.81 1190.55 L-6.81 1176.38 L-7.36 1176.38 L-7.36 1154.98" class="st9"/>
+		</g>
+		<g id="shape67-226" transform="translate(960.165,-396.85)">
+			<title>流程.67</title>
+			<desc>CP</desc>
+			<rect x="0" y="1148.03" width="63.9213" height="42.5197" class="st5"/>
+			<text x="22.96" y="1174.69" class="st2">CP</text>		</g>
+		<g id="shape68-229" transform="translate(985.039,-439.37)">
+			<title>动态连接线.68</title>
+			<path d="M7.09 1190.55 L7.09 1154.98" class="st9"/>
+		</g>
+		<g id="shape69-234" transform="translate(1328.88,-368.504)">
+			<title>流程.69</title>
+			<desc>S5-生产设备管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st4"/>
+			<text x="5.07" y="1174.69" class="st2">S5-生产设备管理</text>		</g>
+		<g id="shape130-237" transform="translate(1276.72,-311.811)">
+			<title>流程.130</title>
+			<desc>S6-工装管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st4"/>
+			<text x="23.07" y="1174.69" class="st2">S6-工装管理</text>		</g>
+		<g id="shape131-240" transform="translate(1228.82,-255.118)">
+			<title>流程.131</title>
+			<desc>S7-工作环境管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st4"/>
+			<text x="5.07" y="1174.69" class="st2">S7-工作环境管理</text>		</g>
+		<g id="shape132-243" transform="translate(1240.16,-297.638)">
+			<title>动态连接线.132</title>
+			<path d="M7.09 1190.55 L7.09 1013.25" class="st7"/>
+		</g>
+		<g id="shape133-248" transform="translate(1305.5,-354.331)">
+			<title>动态连接线.133</title>
+			<path d="M-6.94 1190.55 L-6.94 1176.38 L-7.23 1176.38 L-7.23 1069.95" class="st7"/>
+		</g>
+		<g id="shape134-253" transform="translate(1347.73,-411.024)">
+			<title>动态连接线.134</title>
+			<path d="M6.94 1190.55 L6.94 1176.38 L7.23 1176.38 L7.23 1126.64" class="st7"/>
+		</g>
+		<g id="shape135-258" transform="translate(682.441,-141.732)">
+			<title>流程.135</title>
+			<desc>S4-人力资源管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st4"/>
+			<text x="5.07" y="1174.69" class="st2">S4-人力资源管理</text>		</g>
+		<g id="shape136-261" transform="translate(365.12,-800.787)">
+			<title>流程.136</title>
+			<desc>C7-客户抱怨</desc>
+			<rect x="0" y="1148.03" width="127.807" height="42.5197" class="st1"/>
+			<text x="14.4" y="1174.69" class="st2">C7-客户抱怨</text>		</g>
+		<g id="shape137-264" transform="translate(1360.38,-800.787)">
+			<title>流程.137</title>
+			<desc>C9-客户满意度</desc>
+			<rect x="0" y="1148.03" width="127.807" height="42.5197" class="st1"/>
+			<text x="5.4" y="1174.69" class="st2">C9-客户满意度</text>		</g>
+		<g id="shape138-267" transform="translate(1311.59,-574.016)">
+			<title>流程.138</title>
+			<desc>S10-标识与追溯管理</desc>
+			<rect x="0" y="1148.03" width="176.598" height="42.5197" class="st4"/>
+			<text x="7.3" y="1174.69" class="st2">S10-标识与追溯管理</text>		</g>
+		<g id="shape139-270" transform="translate(1339.37,-574.016)">
+			<title>动态连接线.139</title>
+			<path d="M7.09 1190.55 L7.09 1219.03" class="st7"/>
+		</g>
+		<g id="shape143-275" transform="translate(1444.25,-574.016)">
+			<title>动态连接线.143</title>
+			<path d="M7.09 1190.55 L7.09 1219.03" class="st7"/>
+		</g>
+		<g id="shape144-280" transform="translate(1169.17,-574.016)">
+			<title>流程.144</title>
+			<desc>S11-产品审核</desc>
+			<rect x="0" y="1148.03" width="127.807" height="42.5197" class="st4"/>
+			<text x="9.9" y="1174.69" class="st2">S11-产品审核</text>		</g>
+		<g id="shape145-283" transform="translate(1225.98,-574.016)">
+			<title>动态连接线.145</title>
+			<path d="M7.09 1190.55 L7.09 1219.03" class="st7"/>
+		</g>
+		<g id="shape146-288" transform="translate(960.52,-574.016)">
+			<title>流程.146</title>
+			<desc>S13-过程与成品检验</desc>
+			<rect x="0" y="1148.03" width="176.598" height="42.5197" class="st4"/>
+			<text x="7.3" y="1174.69" class="st2">S13-过程与成品检验</text>		</g>
+		<g id="shape147-291" transform="translate(1055.91,-531.496)">
+			<title>动态连接线.147</title>
+			<path d="M-7.09 1190.55 L-7.09 1162.07" class="st7"/>
+		</g>
+		<g id="shape149-296" transform="translate(960.52,-681.732)">
+			<title>流程.149</title>
+			<desc>S14-不合格品控制</desc>
+			<rect x="0" y="1148.03" width="176.598" height="42.5197" class="st4"/>
+			<text x="16.3" y="1174.69" class="st2">S14-不合格品控制</text>		</g>
+		<g id="shape150-299" transform="translate(1041.73,-616.535)">
+			<title>动态连接线.150</title>
+			<path d="M7.09 1190.55 L7.09 1139.39" class="st12"/>
+		</g>
+		<g id="shape151-305" transform="translate(737.008,-622.205)">
+			<title>流程.151</title>
+			<desc>S15-测量仪器管理</desc>
+			<rect x="0" y="1148.03" width="176.598" height="42.5197" class="st4"/>
+			<text x="16.3" y="1174.69" class="st2">S15-测量仪器管理</text>		</g>
+		<g id="shape152-308" transform="translate(768.472,-555.591)">
+			<title>流程.152</title>
+			<desc>S16-实验室管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st4"/>
+			<text x="9.57" y="1174.69" class="st2">S16-实验室管理</text>		</g>
+		<g id="shape154-311" transform="translate(913.606,-643.465)">
+			<title>动态连接线.154</title>
+			<path d="M0 1190.55 L14.17 1190.55 L14.17 1238.74 L32.87 1238.74" class="st7"/>
+		</g>
+		<g id="shape155-316" transform="translate(913.606,-576.85)">
+			<title>动态连接线.155</title>
+			<path d="M0 1190.55 L14.17 1190.55 L14.17 1172.13 L32.87 1172.13" class="st7"/>
+		</g>
+		<g id="shape156-321" transform="translate(421.937,-800.787)">
+			<title>动态连接线.156</title>
+			<path d="M7.09 1190.55 L7.09 1204.86" class="st7"/>
+		</g>
+		<g id="shape159-326" transform="translate(492.927,-814.961)">
+			<title>动态连接线.159</title>
+			<path d="M0 1183.46 L859.41 1183.46" class="st10"/>
+		</g>
+		<g id="shape160-331" transform="translate(483.803,-751.181)">
+			<title>动态连接线.160</title>
+			<path d="M20.7 1190.55 L21.06 1190.55 L672.73 1190.55 L672.73 1389.18" class="st14"/>
+		</g>
+		<g id="shape161-340" transform="translate(745.795,-878.74)">
+			<title>流程.161</title>
+			<desc>M4-数据分析与应用</desc>
+			<rect x="0" y="1148.03" width="176.598" height="42.5197" class="st3"/>
+			<text x="11.8" y="1174.69" class="st2">M4-数据分析与应用</text>		</g>
+		<g id="shape162-343" transform="translate(944.079,-878.74)">
+			<title>流程.162</title>
+			<desc>M5-改进措施管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st3"/>
+			<text x="5.07" y="1174.69" class="st2">M5-改进措施管理</text>		</g>
+		<g id="shape163-346" transform="translate(1130.03,-878.74)">
+			<title>流程.163</title>
+			<desc>M3-内部审核管理</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st3"/>
+			<text x="5.07" y="1174.69" class="st2">M3-内部审核管理</text>		</g>
+		<g id="shape164-349" transform="translate(742.535,-963.78)">
+			<title>流程.164</title>
+			<desc>M2-管理评审</desc>
+			<rect x="0" y="1148.03" width="547.016" height="42.5197" class="st3"/>
+			<text x="224.01" y="1174.69" class="st2">M2-管理评审</text>		</g>
+		<g id="shape165-352" transform="translate(540.709,-963.78)">
+			<title>流程.165</title>
+			<desc>M1-经营计划</desc>
+			<rect x="0" y="1148.03" width="145.134" height="42.5197" class="st3"/>
+			<text x="23.07" y="1174.69" class="st2">M1-经营计划</text>		</g>
+		<g id="shape166-355" transform="translate(1023.43,-921.26)">
+			<title>动态连接线.166</title>
+			<path d="M-6.79 1190.55 L-6.79 1176.38 L-7.39 1176.38 L-7.39 1162.07" class="st7"/>
+		</g>
+		<g id="shape167-360" transform="translate(922.394,-892.913)">
+			<title>动态连接线.167</title>
+			<path d="M0 1183.46 L7.65 1183.46" class="st7"/>
+		</g>
+		<g id="shape169-365" transform="translate(841.181,-921.26)">
+			<title>动态连接线.169</title>
+			<path d="M-7.09 1190.55 L-7.09 1162.07" class="st7"/>
+		</g>
+		<g id="shape170-370" transform="translate(1209.69,-921.26)">
+			<title>动态连接线.170</title>
+			<path d="M-7.09 1190.55 L-7.09 1162.07" class="st7"/>
+		</g>
+		<g id="shape171-375" transform="translate(685.843,-977.953)">
+			<title>动态连接线.171</title>
+			<path d="M0 1183.46 L42.65 1183.46" class="st7"/>
+		</g>
+	</g>
+</svg>

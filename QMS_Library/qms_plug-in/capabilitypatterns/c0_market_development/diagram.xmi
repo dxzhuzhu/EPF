@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_jslJ0AeCEem7F83J7on-SA" name="c0_market_development"/>
+  <notation:Diagram xmi:id="_js22oAeCEem7F83J7on-SA" type="AD" element="_jslJ0AeCEem7F83J7on-SA" name="c0_market_development" measurementUnit="Pixel"/>
+  <uml:Activity xmi:id="_xC7f4AeCEem7F83J7on-SA" name="c0_market_development">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_xC7f4QeCEem7F83J7on-SA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_xC7f4geCEem7F83J7on-SA" key="uri" value="uma://_OF52EN6JEeeh_oWj-BfUcQ#_OF52Ed6JEeeh_oWj-BfUcQ"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_xC7f4weCEem7F83J7on-SA" key="type" value="Activity"/>
+    </eAnnotations>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_xC8G8AeCEem7F83J7on-SA" type="AD" element="_xC7f4AeCEem7F83J7on-SA" name="c0_market_development" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_xC8G8QeCEem7F83J7on-SA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_xC8G8geCEem7F83J7on-SA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_xC8G8weCEem7F83J7on-SA"/>
+  </notation:Diagram>
+</xmi:XMI>

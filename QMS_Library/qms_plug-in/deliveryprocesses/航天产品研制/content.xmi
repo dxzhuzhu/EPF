@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-ojKeYvHMC3O7tnRIbXnTAg" name="myPD,_zcgw8QeDEem7F83J7on-SA" guid="-ojKeYvHMC3O7tnRIbXnTAg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZMX92EGsIs5sLS160p2hkQ" name="收集需求,__-rk8AncEemmH8QRWd_T5A" guid="-ZMX92EGsIs5sLS160p2hkQ">
+    <keyConsiderations>收集需求</keyConsiderations>
+    <refinedDescription>收集需求</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-O84gcC4iUaBfUocjtL5SEg" name="requirements,__-taIgncEemmH8QRWd_T5A" guid="-O84gcC4iUaBfUocjtL5SEg">
+    <keyConsiderations>需求说明</keyConsiderations>
+    <refinedDescription>需求说明</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-p0sGyzWHyu2uiAFRsNzd1g" name="架构设计说明,_FXQMIAndEemmH8QRWd_T5A" guid="-p0sGyzWHyu2uiAFRsNzd1g">
+    <keyConsiderations>架构设计说明</keyConsiderations>
+    <refinedDescription>架构设计说明</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-auFXAtNQ0xOKNRM8KiObtA" name="requirements,_lvtc8wqoEemmH8QRWd_T5A" guid="-auFXAtNQ0xOKNRM8KiObtA">
+    <keyConsiderations>需求说明</keyConsiderations>
+    <refinedDescription>需求说明</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SPL3ZOWxjKY-mwV1ZR_UgQ" name="架构设计说明,_lvtc9QqoEemmH8QRWd_T5A" guid="-SPL3ZOWxjKY-mwV1ZR_UgQ">
+    <keyConsiderations>系统设计说明</keyConsiderations>
+    <refinedDescription>系统设计说明</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Nghjy4rvDnFKbuACEaDjUg" name="收集需求,_mMVukAqoEemmH8QRWd_T5A" guid="-Nghjy4rvDnFKbuACEaDjUg">
+    <keyConsiderations>收集需求</keyConsiderations>
+    <refinedDescription>收集需求</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-tnSIv_50efjQtDZFwe7cDg" name="系统设计,_lvtc8AqoEemmH8QRWd_T5A" guid="-tnSIv_50efjQtDZFwe7cDg">
+    <keyConsiderations>系统设计</keyConsiderations>
+    <refinedDescription>系统设计</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-u_Iyzl3MDiR1fFYVo2u_Rw" name="系统开发,_aRzEoQqnEemmH8QRWd_T5A" guid="-u_Iyzl3MDiR1fFYVo2u_Rw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-P5QYq39q-bO_741I8Hao7g" name="系统设计,_kGSdgAqnEemmH8QRWd_T5A" guid="-P5QYq39q-bO_741I8Hao7g"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EfLh5Ty0AyjYFRsB52z2_A" name="requirements,_kGYkIQqnEemmH8QRWd_T5A" guid="-EfLh5Ty0AyjYFRsB52z2_A"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8aRw42RNXFcJdLyMKc5VDw" name="架构设计说明,_kGYkIwqnEemmH8QRWd_T5A" guid="-8aRw42RNXFcJdLyMKc5VDw"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NAvBkECOBhHyd_yiwyVNtQ" name="收集需求,_lCdx4AqnEemmH8QRWd_T5A" guid="-NAvBkECOBhHyd_yiwyVNtQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-sjaLS01MiIHZj-zrTGXukg" name="系统开发,_aRzEoQqnEemmH8QRWd_T5A" guid="-sjaLS01MiIHZj-zrTGXukg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sCsdExbe6PVyrf5Ml6rI0w" name="系统设计,_kGSdgAqnEemmH8QRWd_T5A" guid="-sCsdExbe6PVyrf5Ml6rI0w">
+    <keyConsiderations>系统设计</keyConsiderations>
+    <refinedDescription>系统设计</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OHR8NWtWrm6IID6-7xaCCQ" name="requirements,_kGYkIQqnEemmH8QRWd_T5A" guid="-OHR8NWtWrm6IID6-7xaCCQ">
+    <keyConsiderations>需求说明</keyConsiderations>
+    <refinedDescription>需求说明</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-swYrrwlTdxwrZ6Q0vTA0Vw" name="架构设计说明,_kGYkIwqnEemmH8QRWd_T5A" guid="-swYrrwlTdxwrZ6Q0vTA0Vw">
+    <keyConsiderations>系统设计说明</keyConsiderations>
+    <refinedDescription>系统设计说明</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YokOw_-jVotqJViPPUCh8w" name="收集需求,_lCdx4AqnEemmH8QRWd_T5A" guid="-YokOw_-jVotqJViPPUCh8w">
+    <keyConsiderations>收集需求</keyConsiderations>
+    <refinedDescription>收集需求</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

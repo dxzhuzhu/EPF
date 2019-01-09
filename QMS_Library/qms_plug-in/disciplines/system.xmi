@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZvEAc5Neq50-1vmv-NUvug" name="new_discipline,_svSX8AkYEemb47wkxQDoZA" guid="-ZvEAc5Neq50-1vmv-NUvug" authors="dxzhuzhu" changeDate="2018-12-26T22:15:49.790+0800" changeDescription="init" version="1.0.0">
+  <copyrightStatement href="uma://_IG9lwPg3EeaYAN_Q8vCkZg#_R70QsLgfEeiUk4uhAHDtzQ"/>
+  <mainDescription>系统工程</mainDescription>
+  <keyConsiderations>系统工程</keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

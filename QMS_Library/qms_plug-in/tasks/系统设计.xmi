@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WTJNqmLT3ksBGul_mTZqng" name="系统设计,_7yML0AnbEemmH8QRWd_T5A" guid="-WTJNqmLT3ksBGul_mTZqng" authors="dxzhuzhu" changeDate="2018-12-29T21:39:11.051+0800" changeDescription="init" version="1.0.0">
+  <mainDescription>系统设计</mainDescription>
+  <keyConsiderations>系统设计</keyConsiderations>
+  <purpose>系统设计</purpose>
+  <alternatives>系统设计</alternatives>
+</org.eclipse.epf.uma:TaskDescription>

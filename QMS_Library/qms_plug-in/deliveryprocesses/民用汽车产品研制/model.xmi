@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_gdlMUAeEEem7F83J7on-SA" guid="_gdlMUAeEEem7F83J7on-SA">
+    <resourceDescriptors xmi:id="_gdlMUQeEEem7F83J7on-SA" id="-0KtuHbVytGL382JL47bjLQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_gccj4AeEEem7F83J7on-SA" name="民用汽车产品研制" guid="_gccj4AeEEem7F83J7on-SA">
+    <methodElementProperty xmi:id="_gcdK8QeEEem7F83J7on-SA" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_gcdK8AeEEem7F83J7on-SA" name="民用汽车产品研制" guid="_gcdK8AeEEem7F83J7on-SA" presentationName="民用汽车产品研制">
+      <presentation xmi:id="-0KtuHbVytGL382JL47bjLQ" href="uma://-0KtuHbVytGL382JL47bjLQ#-0KtuHbVytGL382JL47bjLQ"/>
+      <defaultContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+      <validContext href="uma://_9GceoPg2EeaYAN_Q8vCkZg#_8R6XUPnLEeaoGrSEpT8uzg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

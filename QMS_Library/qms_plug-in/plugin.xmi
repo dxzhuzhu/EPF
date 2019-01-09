@@ -12,6 +12,14 @@
     <subManagers xmi:id="_91KEEN6LEeeh_oWj-BfUcQ" href="uma://_90ZPEN6LEeeh_oWj-BfUcQ#_91KEEN6LEeeh_oWj-BfUcQ"/>
     <subManagers xmi:id="_UhbnsN6MEeeh_oWj-BfUcQ" href="uma://_UglTIN6MEeeh_oWj-BfUcQ#_UhbnsN6MEeeh_oWj-BfUcQ"/>
     <subManagers xmi:id="_mbuDAN6MEeeh_oWj-BfUcQ" href="uma://_magiEN6MEeeh_oWj-BfUcQ#_mbuDAN6MEeeh_oWj-BfUcQ"/>
+    <subManagers xmi:id="_zd54EAeDEem7F83J7on-SA" href="uma://_zcgw8AeDEem7F83J7on-SA#_zd54EAeDEem7F83J7on-SA"/>
+    <subManagers xmi:id="_gdlMUAeEEem7F83J7on-SA" href="uma://_gccj4AeEEem7F83J7on-SA#_gdlMUAeEEem7F83J7on-SA"/>
+    <subManagers xmi:id="_aUjdsAqnEemmH8QRWd_T5A" href="uma://_aRzEoAqnEemmH8QRWd_T5A#_aUjdsAqnEemmH8QRWd_T5A"/>
+    <subManagers xmi:id="__k8O8A2wEemaPdAhYonWNg" href="uma://__jcaIA2wEemaPdAhYonWNg#__k8O8A2wEemaPdAhYonWNg"/>
+    <subManagers xmi:id="_JqwoYA2xEemaPdAhYonWNg" href="uma://_Jo61UA2xEemaPdAhYonWNg#_JqwoYA2xEemaPdAhYonWNg"/>
+    <subManagers xmi:id="_Qj3OMA2xEemaPdAhYonWNg" href="uma://_QinRAA2xEemaPdAhYonWNg#_Qj3OMA2xEemaPdAhYonWNg"/>
+    <subManagers xmi:id="_s-kUQA2xEemaPdAhYonWNg" href="uma://_s9U-IA2xEemaPdAhYonWNg#_s-kUQA2xEemaPdAhYonWNg"/>
+    <subManagers xmi:id="_bcz4QA2yEemaPdAhYonWNg" href="uma://_bbcmUA2yEemaPdAhYonWNg#_bcz4QA2yEemaPdAhYonWNg"/>
     <resourceDescriptors xmi:id="_mH1sYfnMEeaoGrSEpT8uzg" id="-CZg5sqyOxVINi3HRb7A_WA" uri="customcategories/qms_overview.xmi"/>
     <resourceDescriptors xmi:id="_OI6t0N6JEeeh_oWj-BfUcQ" id="_OF52EN6JEeeh_oWj-BfUcQ" uri="capabilitypatterns/c0_market_development/model.xmi"/>
     <resourceDescriptors xmi:id="_qHpCgN6JEeeh_oWj-BfUcQ" id="_qHkKAN6JEeeh_oWj-BfUcQ" uri="capabilitypatterns/c1_quotation/model.xmi"/>
@@ -27,16 +35,109 @@
     <resourceDescriptors xmi:id="_ogt6MN9IEee7AckLgLwfOg" id="-4XrXlorG2cEd6IVutGNULA" uri="customcategories/qms.xmi"/>
     <resourceDescriptors xmi:id="_apBfsN9KEee7AckLgLwfOg" id="-b_mxLQ5gABcrzkkGXpgWtw" uri="guidances/checklists/new_checklist_1.xmi"/>
     <resourceDescriptors xmi:id="_YZfewLgfEeiUk4uhAHDtzQ" id="-fGIJM7umHd9KPq54or9kNQ" uri="guidances/supportingmaterials/copyright.xmi"/>
-    <resourceDescriptors xmi:id="_X95ScbggEeiUk4uhAHDtzQ" id="-TUk5R69vtuijEbjctJQ32w" uri="guidances/checklists/hw_checklist.xmi"/>
+    <resourceDescriptors xmi:id="_X95ScbggEeiUk4uhAHDtzQ" id="-TUk5R69vtuijEbjctJQ32w" uri="guidances/checklists/cl1-hw_checklist.xmi"/>
     <resourceDescriptors xmi:id="_9t0MsrgmEeiUk4uhAHDtzQ" id="-_z0tQ6ecXm3QrwLRrAkU_g" uri="customcategories/qms.xmi"/>
+    <resourceDescriptors xmi:id="_oS-wEPVhEei8dJZ1rYi-_Q" id="-3IJMvwLxHcXHsm9Sn946Hg" uri="customcategories/专业任务.xmi"/>
+    <resourceDescriptors xmi:id="_5Ql5cAYEEemBFoVqvOToZg" id="-3nnHKjcfGBaYm7Rl7p6eow" uri="guidances/termdefinitions/qms.xmi"/>
+    <resourceDescriptors xmi:id="_zd0_kAeDEem7F83J7on-SA" id="_zcgw8AeDEem7F83J7on-SA" uri="deliveryprocesses/航天产品研制/model.xmi"/>
+    <resourceDescriptors xmi:id="_gdiwEAeEEem7F83J7on-SA" id="_gccj4AeEEem7F83J7on-SA" uri="deliveryprocesses/民用汽车产品研制/model.xmi"/>
+    <resourceDescriptors xmi:id="_W0CNIAkOEemTptEb5bN04Q" id="-S_fgzAA5Rcd41DomGxPVUg" uri="tasks/收集需求.xmi"/>
+    <resourceDescriptors xmi:id="_ViBgwAkQEemTptEb5bN04Q" id="-H6S2GDQxgYeawXupgHWJqQ" uri="guidances/whitepapers/iso9001-2015.xmi"/>
+    <resourceDescriptors xmi:id="_A7hPcAkTEemb47wkxQDoZA" id="-uc-c2amLhOq32JSDBJJxfg" uri="guidances/templates/cl1-hw_checklist.xmi"/>
+    <resourceDescriptors xmi:id="_aO3boAkWEemb47wkxQDoZA" id="-l5CNsABcuK9NyCAePpW1gA" uri="guidances/examples/cl1-hw_checklist.xmi"/>
+    <resourceDescriptors xmi:id="_GxKa4AkYEemb47wkxQDoZA" id="-Z5jhjBRPxjO85V5CLSKOSA" uri="workproducts/requirements.xmi"/>
+    <resourceDescriptors xmi:id="_q-mdcAkYEemb47wkxQDoZA" id="-s5pbAv5Hhq_-_mqCqdV7UA" uri="disciplinegroupings/产品设计.xmi"/>
+    <resourceDescriptors xmi:id="_y_OE8AkYEemb47wkxQDoZA" id="-ZvEAc5Neq50-1vmv-NUvug" uri="disciplines/system.xmi"/>
+    <resourceDescriptors xmi:id="_zYUsAAkZEemb47wkxQDoZA" id="-3otDd0BtKzEMG6iIdwOW0Q" uri="guidances/templates/需求说明模板.xmi"/>
+    <resourceDescriptors xmi:id="_YMTjYAnZEemmH8QRWd_T5A" id="-8Ny8U2GS77p1RpIuoj9HWA" uri="guidances/whitepapers/quality_manual.xmi"/>
+    <resourceDescriptors xmi:id="_HZLdEAncEemmH8QRWd_T5A" id="-WTJNqmLT3ksBGul_mTZqng" uri="tasks/系统设计.xmi"/>
+    <resourceDescriptors xmi:id="_drjS8AncEemmH8QRWd_T5A" id="-Yio6w06S2Z72gRADpXCQuQ" uri="workproducts/系统设计说明.xmi"/>
+    <resourceDescriptors xmi:id="_aSdzAAqnEemmH8QRWd_T5A" id="_aRzEoAqnEemmH8QRWd_T5A" uri="capabilitypatterns/系统开发/model.xmi"/>
+    <resourceDescriptors xmi:id="_djHBIAtnEemjTKGL03JasA" id="-gDDhKW1wBSQdU3T8jTEdPg" uri="guidances/termdefinitions/apqp.xmi"/>
+    <resourceDescriptors xmi:id="_f64JwAtnEemjTKGL03JasA" id="-wPdNWWhjrIn8db_r8xRa9A" uri="guidances/termdefinitions/spc.xmi"/>
+    <resourceDescriptors xmi:id="_iatpQAtnEemjTKGL03JasA" id="-d_aAPJuY60xPR8abtdOzmw" uri="guidances/termdefinitions/msa.xmi"/>
+    <resourceDescriptors xmi:id="_kn6goAtnEemjTKGL03JasA" id="-gfao0cnM-KyK8Bgu70NBdg" uri="guidances/termdefinitions/fmea.xmi"/>
+    <resourceDescriptors xmi:id="__jpOcA2wEemaPdAhYonWNg" id="__jcaIA2wEemaPdAhYonWNg" uri="deliveryprocesses/通用民用产品研制/model.xmi"/>
+    <resourceDescriptors xmi:id="_JpDYMA2xEemaPdAhYonWNg" id="_Jo61UA2xEemaPdAhYonWNg" uri="deliveryprocesses/航空产品研制/model.xmi"/>
+    <resourceDescriptors xmi:id="_Qivz4A2xEemaPdAhYonWNg" id="_QinRAA2xEemaPdAhYonWNg" uri="deliveryprocesses/地面装备研制/model.xmi"/>
+    <resourceDescriptors xmi:id="_s9f9QA2xEemaPdAhYonWNg" id="_s9U-IA2xEemaPdAhYonWNg" uri="deliveryprocesses/预先研究产品研制/model.xmi"/>
+    <resourceDescriptors xmi:id="_bblJMA2yEemaPdAhYonWNg" id="_bbcmUA2yEemaPdAhYonWNg" uri="deliveryprocesses/竞标产品研发/model.xmi"/>
+    <resourceDescriptors xmi:id="_hWnDkA26EemaPdAhYonWNg" id="-6_Qo5fgGr1ycTeGdAJguTw" uri="customcategories/专业角色.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
-  <org.eclipse.epf.uma:MethodPlugin xmi:id="_IG9lwPg3EeaYAN_Q8vCkZg" name="qms_plug-in" guid="_IG9lwPg3EeaYAN_Q8vCkZg" presentationName="qms_plug-in" briefDescription="qms_plug-in" authors="Jingquan Zhuge&#xD;&#xA;dxzhuzhu@126.com" changeDate="2017-02-21T21:11:06.256+0800" changeDescription="init" version="1.0.0">
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_IG9lwPg3EeaYAN_Q8vCkZg" name="qms_plug-in" guid="_IG9lwPg3EeaYAN_Q8vCkZg" presentationName="qms_plug-in" briefDescription="qms_plug-in" authors="Jingquan Zhuge&#xD;&#xA;dxzhuzhu@126.com" changeDate="2017-02-21T21:11:06.256+0800" changeDescription="init" version="1.0.0" copyrightStatement="_R70QsLgfEeiUk4uhAHDtzQ">
     <methodElementProperty xmi:id="_IHB3MPg3EeaYAN_Q8vCkZg" name="plugin_synFree" value="true"/>
     <methodElementProperty xmi:id="_PodoUPg3EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lwfg3EeaYAN_Q8vCkZg" name="Content" guid="_IG9lwfg3EeaYAN_Q8vCkZg">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lwvg3EeaYAN_Q8vCkZg" name="Categories" guid="_IG9lwvg3EeaYAN_Q8vCkZg">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lw_g3EeaYAN_Q8vCkZg" name="Domains" guid="_IG9lw_g3EeaYAN_Q8vCkZg"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxPg3EeaYAN_Q8vCkZg" name="Disciplines" guid="_IG9lxPg3EeaYAN_Q8vCkZg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxPg3EeaYAN_Q8vCkZg" name="Disciplines" guid="_IG9lxPg3EeaYAN_Q8vCkZg">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_ibP8UAkYEemb47wkxQDoZA" name="产品设计" guid="_ibP8UAkYEemb47wkxQDoZA" presentationName="产品设计" briefDescription="产品设计" disciplines="_svSX8AkYEemb47wkxQDoZA _sTOmUA2zEemaPdAhYonWNg _v3NqcA2zEemaPdAhYonWNg _29kCEA2zEemaPdAhYonWNg _66fxsA2zEemaPdAhYonWNg _LSPcMA20EemaPdAhYonWNg _QvSTsA20EemaPdAhYonWNg _UpVHYA20EemaPdAhYonWNg _X4qxMA20EemaPdAhYonWNg _COaOwA21EemaPdAhYonWNg _EvcBEA21EemaPdAhYonWNg">
+            <methodElementProperty xmi:id="_q-hk8AkYEemb47wkxQDoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-s5pbAv5Hhq_-_mqCqdV7UA" href="uma://-s5pbAv5Hhq_-_mqCqdV7UA#-s5pbAv5Hhq_-_mqCqdV7UA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_svSX8AkYEemb47wkxQDoZA" name="system" guid="_svSX8AkYEemb47wkxQDoZA" presentationName="系统工程" briefDescription="系统工程" tasks="_9WQrAAeIEem7F83J7on-SA _7yML0AnbEemmH8QRWd_T5A">
+            <methodElementProperty xmi:id="_y_JMcAkYEemb47wkxQDoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZvEAc5Neq50-1vmv-NUvug" href="uma://-ZvEAc5Neq50-1vmv-NUvug#-ZvEAc5Neq50-1vmv-NUvug"/>
+            <referenceWorkflows href="uma://_aRzEoAqnEemmH8QRWd_T5A#_aRzEoQqnEemmH8QRWd_T5A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_sTOmUA2zEemaPdAhYonWNg" name="电路设计" guid="_sTOmUA2zEemaPdAhYonWNg" presentationName="电路设计">
+            <methodElementProperty xmi:id="_vCH1gA2zEemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_v3NqcA2zEemaPdAhYonWNg" name="光学设计" guid="_v3NqcA2zEemaPdAhYonWNg" presentationName="光学设计">
+            <methodElementProperty xmi:id="_ycC-sA2zEemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_29kCEA2zEemaPdAhYonWNg" name="机械与结构设计" guid="_29kCEA2zEemaPdAhYonWNg" presentationName="机械与结构设计">
+            <methodElementProperty xmi:id="_5uOL0A2zEemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_66fxsA2zEemaPdAhYonWNg" name="软件设计" guid="_66fxsA2zEemaPdAhYonWNg" presentationName="软件设计">
+            <methodElementProperty xmi:id="_8Vg-MA2zEemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_LSPcMA20EemaPdAhYonWNg" name="电路测试" guid="_LSPcMA20EemaPdAhYonWNg" presentationName="电路测试">
+            <methodElementProperty xmi:id="_QBmuUA20EemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_QvSTsA20EemaPdAhYonWNg" name="光学测试" guid="_QvSTsA20EemaPdAhYonWNg" presentationName="光学测试">
+            <methodElementProperty xmi:id="_Sj99YA20EemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_UpVHYA20EemaPdAhYonWNg" name="软件测试" guid="_UpVHYA20EemaPdAhYonWNg" presentationName="软件测试">
+            <methodElementProperty xmi:id="_XIresA20EemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_X4qxMA20EemaPdAhYonWNg" name="系统测试" guid="_X4qxMA20EemaPdAhYonWNg" presentationName="系统测试">
+            <methodElementProperty xmi:id="_aM-9MA20EemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_26EMsA20EemaPdAhYonWNg" name="供应链" guid="_26EMsA20EemaPdAhYonWNg" presentationName="供应链">
+            <methodElementProperty xmi:id="_5E5skA20EemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_7-K_wA20EemaPdAhYonWNg" name="过程设计(工艺)" guid="_7-K_wA20EemaPdAhYonWNg" presentationName="过程设计(工艺)" disciplines="_fGAfkA6OEemNUd-pi6fppQ _kzY5IA6OEemNUd-pi6fppQ _rQTSMA6OEemNUd-pi6fppQ _8omawA6OEemNUd-pi6fppQ _SlvAcA6PEemNUd-pi6fppQ">
+            <methodElementProperty xmi:id="__iQKgA20EemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_COaOwA21EemaPdAhYonWNg" name="固件设计" guid="_COaOwA21EemaPdAhYonWNg" presentationName="固件设计">
+            <methodElementProperty xmi:id="_D_0iAA21EemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_EvcBEA21EemaPdAhYonWNg" name="固件测试" guid="_EvcBEA21EemaPdAhYonWNg" presentationName="固件测试">
+            <methodElementProperty xmi:id="_G-UTcA21EemaPdAhYonWNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_fGAfkA6OEemNUd-pi6fppQ" name="电路工艺" guid="_fGAfkA6OEemNUd-pi6fppQ" presentationName="电路工艺">
+            <methodElementProperty xmi:id="_htrscA6OEemNUd-pi6fppQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_kzY5IA6OEemNUd-pi6fppQ" name="光学加工工艺" guid="_kzY5IA6OEemNUd-pi6fppQ" presentationName="光学加工工艺" briefDescription="光学加工工艺">
+            <methodElementProperty xmi:id="_omohQA6OEemNUd-pi6fppQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_rQTSMA6OEemNUd-pi6fppQ" name="机械加工工艺" guid="_rQTSMA6OEemNUd-pi6fppQ" presentationName="机械加工工艺" briefDescription="机械加工工艺">
+            <methodElementProperty xmi:id="_67exoA6OEemNUd-pi6fppQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_8omawA6OEemNUd-pi6fppQ" name="装调工艺" guid="_8omawA6OEemNUd-pi6fppQ" presentationName="装调工艺" briefDescription="装调工艺">
+            <methodElementProperty xmi:id="__dNQYA6OEemNUd-pi6fppQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_KmtUYA6PEemNUd-pi6fppQ" name="生产管理" guid="_KmtUYA6PEemNUd-pi6fppQ" presentationName="生产管理" briefDescription="生产管理">
+            <methodElementProperty xmi:id="_NWjl0A6PEemNUd-pi6fppQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_SlvAcA6PEemNUd-pi6fppQ" name="镀膜工艺" guid="_SlvAcA6PEemNUd-pi6fppQ" presentationName="镀膜工艺" briefDescription="镀膜工艺">
+            <methodElementProperty xmi:id="_UdfzUA6PEemNUd-pi6fppQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_bG-BsA6PEemNUd-pi6fppQ" name="质量" guid="_bG-BsA6PEemNUd-pi6fppQ" presentationName="质量" briefDescription="质量">
+            <methodElementProperty xmi:id="_dKfYoA6PEemNUd-pi6fppQ" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxfg3EeaYAN_Q8vCkZg" name="RoleSets" guid="_IG9lxfg3EeaYAN_Q8vCkZg">
           <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_MHykoPg8EeaYAN_Q8vCkZg" name="product_development" guid="_MHykoPg8EeaYAN_Q8vCkZg" presentationName="产品设计" roleSets="_0KwosPSYEeiC6OxrL3vFfg _TU8dsPSiEeiC6OxrL3vFfg _cQNvkPSiEeiC6OxrL3vFfg _u0MBEPSiEeiC6OxrL3vFfg _NK3EkPSjEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_Ob9msPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
@@ -50,7 +151,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_X_ImEPg8EeaYAN_Q8vCkZg" name="project_management" guid="_X_ImEPg8EeaYAN_Q8vCkZg" presentationName="项目管理" roleSets="_sP_bcPShEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_aVdkQPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_g02CgPg8EeaYAN_Q8vCkZg" name="production" guid="_g02CgPg8EeaYAN_Q8vCkZg" presentationName="生产" roleSets="_IxG6QPScEeiC6OxrL3vFfg">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_g02CgPg8EeaYAN_Q8vCkZg" name="production" guid="_g02CgPg8EeaYAN_Q8vCkZg" presentationName="生产管理" roleSets="_IxG6QPScEeiC6OxrL3vFfg">
             <methodElementProperty xmi:id="_jOpLcPg8EeaYAN_Q8vCkZg" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_e8UFcN58Eeeh_oWj-BfUcQ" name="process_development" guid="_e8UFcN58Eeeh_oWj-BfUcQ" presentationName="过程设计(工艺)" roleSets="_4e_WoPSbEeiC6OxrL3vFfg">
@@ -100,21 +201,44 @@
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lxvg3EeaYAN_Q8vCkZg" name="WP Types" guid="_IG9lxvg3EeaYAN_Q8vCkZg"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lx_g3EeaYAN_Q8vCkZg" name="Tools" guid="_IG9lx_g3EeaYAN_Q8vCkZg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lx_g3EeaYAN_Q8vCkZg" name="Tools" guid="_IG9lx_g3EeaYAN_Q8vCkZg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Tool" xmi:id="_6w8ngA6MEemNUd-pi6fppQ" name="new_tool" guid="_6w8ngA6MEemNUd-pi6fppQ" presentationName="New Tool"/>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lyPg3EeaYAN_Q8vCkZg" name="StandardCategories" guid="_IG9lyPg3EeaYAN_Q8vCkZg"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lyfg3EeaYAN_Q8vCkZg" name="CustomCategories" guid="_IG9lyfg3EeaYAN_Q8vCkZg">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IG9lyvg3EeaYAN_Q8vCkZg" name="Hidden" guid="_IG9lyvg3EeaYAN_Q8vCkZg">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IG9ly_g3EeaYAN_Q8vCkZg" name="Custom Categories" guid="_IG9ly_g3EeaYAN_Q8vCkZg" categorizedElements="_AEgfMPnMEeaoGrSEpT8uzg _7DZ04LgmEeiUk4uhAHDtzQ"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_IG9ly_g3EeaYAN_Q8vCkZg" name="Custom Categories" guid="_IG9ly_g3EeaYAN_Q8vCkZg" categorizedElements="_AEgfMPnMEeaoGrSEpT8uzg _7DZ04LgmEeiUk4uhAHDtzQ _jg9LgPVhEei8dJZ1rYi-_Q _lOc6cAX8Eem-TJ3AhwaqtA _HUa6MAX9Eem-TJ3AhwaqtA _NGq8UA22EemaPdAhYonWNg"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_AEgfMPnMEeaoGrSEpT8uzg" name="qms_overview" guid="_AEgfMPnMEeaoGrSEpT8uzg" presentationName="QMS Overview" briefDescription="QMS Overview" categorizedElements="_R70QsLgfEeiUk4uhAHDtzQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_AEgfMPnMEeaoGrSEpT8uzg" name="qms_overview" guid="_AEgfMPnMEeaoGrSEpT8uzg" presentationName="QMS概览" briefDescription="QMS概览" categorizedElements="_ING7wAnZEemmH8QRWd_T5A">
             <methodElementProperty xmi:id="_Dq9BcPnMEeaoGrSEpT8uzg" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_iYMxULgkEeiUk4uhAHDtzQ" name="PUBLISH_CATEGORY" value="true"/>
             <presentation xmi:id="-CZg5sqyOxVINi3HRb7A_WA" href="uma://-CZg5sqyOxVINi3HRb7A_WA#-CZg5sqyOxVINi3HRb7A_WA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7DZ04LgmEeiUk4uhAHDtzQ" name="qms" guid="_7DZ04LgmEeiUk4uhAHDtzQ" presentationName="QMS" briefDescription="QMS" categorizedElements="_AEgfMPnMEeaoGrSEpT8uzg">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_7DZ04LgmEeiUk4uhAHDtzQ" name="qms" guid="_7DZ04LgmEeiUk4uhAHDtzQ" presentationName="QMS" briefDescription="QMS" categorizedElements="_AEgfMPnMEeaoGrSEpT8uzg _jg9LgPVhEei8dJZ1rYi-_Q _lOc6cAX8Eem-TJ3AhwaqtA _HUa6MAX9Eem-TJ3AhwaqtA _NGq8UA22EemaPdAhYonWNg">
             <methodElementProperty xmi:id="_9t0MsLgmEeiUk4uhAHDtzQ" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_DNqgkLgnEeiUk4uhAHDtzQ" name="PUBLISH_CATEGORY" value="true"/>
             <presentation xmi:id="-_z0tQ6ecXm3QrwLRrAkU_g" href="uma://-_z0tQ6ecXm3QrwLRrAkU_g#-_z0tQ6ecXm3QrwLRrAkU_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_jg9LgPVhEei8dJZ1rYi-_Q" name="专业任务" guid="_jg9LgPVhEei8dJZ1rYi-_Q" presentationName="专业任务" briefDescription="专业任务" categorizedElements="_ibP8UAkYEemb47wkxQDoZA _26EMsA20EemaPdAhYonWNg _7-K_wA20EemaPdAhYonWNg">
+            <methodElementProperty xmi:id="_kwGfMPVhEei8dJZ1rYi-_Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-3IJMvwLxHcXHsm9Sn946Hg" href="uma://-3IJMvwLxHcXHsm9Sn946Hg#-3IJMvwLxHcXHsm9Sn946Hg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_lOc6cAX8Eem-TJ3AhwaqtA" name="专业角色" guid="_lOc6cAX8Eem-TJ3AhwaqtA" presentationName="专业角色" briefDescription="专业角色" categorizedElements="_e8UFcN58Eeeh_oWj-BfUcQ _MHykoPg8EeaYAN_Q8vCkZg _g02CgPg8EeaYAN_Q8vCkZg _X_ImEPg8EeaYAN_Q8vCkZg _RLUv8Pg8EeaYAN_Q8vCkZg _q4xMMN6DEeeh_oWj-BfUcQ _UFxH0Pg8EeaYAN_Q8vCkZg">
+            <methodElementProperty xmi:id="_pdE3AAX8Eem-TJ3AhwaqtA" name="me_edited" value="true"/>
+            <presentation xmi:id="-6_Qo5fgGr1ycTeGdAJguTw" href="uma://-6_Qo5fgGr1ycTeGdAJguTw#-6_Qo5fgGr1ycTeGdAJguTw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_HUa6MAX9Eem-TJ3AhwaqtA" name="work_products" guid="_HUa6MAX9Eem-TJ3AhwaqtA" presentationName="工作产品" briefDescription="工作产品" categorizedElements="_aXjLkAncEemmH8QRWd_T5A _v1fJUAkXEemb47wkxQDoZA">
+            <methodElementProperty xmi:id="_Mtt6IAX9Eem-TJ3AhwaqtA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NGq8UA22EemaPdAhYonWNg" name="发布的流程" guid="_NGq8UA22EemaPdAhYonWNg" presentationName="发布的流程" briefDescription="发布的流程">
+            <methodElementProperty xmi:id="_VOvPoA22EemaPdAhYonWNg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_bbcmUA2yEemaPdAhYonWNg#_bbcmUQ2yEemaPdAhYonWNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_s9U-IA2xEemaPdAhYonWNg#_s9U-IQ2xEemaPdAhYonWNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_gccj4AeEEem7F83J7on-SA#_gcdK8AeEEem7F83J7on-SA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://__jcaIA2wEemaPdAhYonWNg#__jcaIQ2wEemaPdAhYonWNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_QinRAA2xEemaPdAhYonWNg#_QinRAQ2xEemaPdAhYonWNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_Jo61UA2xEemaPdAhYonWNg#_Jo61UQ2xEemaPdAhYonWNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_zcgw8AeDEem7F83J7on-SA#_zcgw8QeDEem7F83J7on-SA"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -255,31 +379,117 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_qbBG8N6IEeeh_oWj-BfUcQ" name="customer" guid="_qbBG8N6IEeeh_oWj-BfUcQ" presentationName="客户">
             <methodElementProperty xmi:id="_sdNBIN6IEeeh_oWj-BfUcQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_R70QsLgfEeiUk4uhAHDtzQ" name="copyright" guid="_R70QsLgfEeiUk4uhAHDtzQ" presentationName="CopyRight" briefDescription="CopyRight">
-            <methodElementProperty xmi:id="_YZZYILgfEeiUk4uhAHDtzQ" name="me_edited" value="true"/>
-            <presentation xmi:id="-fGIJM7umHd9KPq54or9kNQ" href="uma://-fGIJM7umHd9KPq54or9kNQ#-fGIJM7umHd9KPq54or9kNQ"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_LgTJULggEeiUk4uhAHDtzQ" name="hw_checklist" guid="_LgTJULggEeiUk4uhAHDtzQ" presentationName="HW Checklist" briefDescription="HW Checklist">
+          <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_LgTJULggEeiUk4uhAHDtzQ" name="cl1-hw_checklist" guid="_LgTJULggEeiUk4uhAHDtzQ" presentationName="cl1-硬件设计检查表" briefDescription="cl1-硬件设计检查表" examples="_WLwykAkWEemb47wkxQDoZA">
             <methodElementProperty xmi:id="_Nd--ALggEeiUk4uhAHDtzQ" name="me_edited" value="true"/>
             <presentation xmi:id="-TUk5R69vtuijEbjctJQ32w" href="uma://-TUk5R69vtuijEbjctJQ32w#-TUk5R69vtuijEbjctJQ32w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9WQrAAeIEem7F83J7on-SA" name="收集需求" guid="_9WQrAAeIEem7F83J7on-SA" presentationName="收集需求" briefDescription="收集需求" performedBy="_nxvgAPg4EeaYAN_Q8vCkZg" output="_v1fJUAkXEemb47wkxQDoZA" additionallyPerformedBy="_k3xpQPg4EeaYAN_Q8vCkZg">
+            <methodElementProperty xmi:id="_KD1J0AeJEem7F83J7on-SA" name="me_edited" value="true"/>
+            <presentation xmi:id="-S_fgzAA5Rcd41DomGxPVUg" href="uma://-S_fgzAA5Rcd41DomGxPVUg#-S_fgzAA5Rcd41DomGxPVUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="_tvO9kAkOEemTptEb5bN04Q" name="iso9001-2015" guid="_tvO9kAkOEemTptEb5bN04Q" presentationName="ISO9001-2015" briefDescription="GBT19001-2016 质量管理体系 要求 idt ISO9001-2015">
+            <methodElementProperty xmi:id="_Vh494AkQEemTptEb5bN04Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-H6S2GDQxgYeawXupgHWJqQ" href="uma://-H6S2GDQxgYeawXupgHWJqQ#-H6S2GDQxgYeawXupgHWJqQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_4f5uAAkSEemb47wkxQDoZA" name="cl1-hw_checklist" guid="_4f5uAAkSEemb47wkxQDoZA" presentationName="cl1-电路设计检查表" briefDescription="cl1-电路设计检查表">
+            <methodElementProperty xmi:id="_A7VpQAkTEemb47wkxQDoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-uc-c2amLhOq32JSDBJJxfg" href="uma://-uc-c2amLhOq32JSDBJJxfg#-uc-c2amLhOq32JSDBJJxfg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_WLwykAkWEemb47wkxQDoZA" name="cl1-hw_checklist" guid="_WLwykAkWEemb47wkxQDoZA" presentationName="cl1-电路设计检查表" briefDescription="cl1-电路设计检查表">
+            <methodElementProperty xmi:id="_aOscgAkWEemb47wkxQDoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-l5CNsABcuK9NyCAePpW1gA" href="uma://-l5CNsABcuK9NyCAePpW1gA#-l5CNsABcuK9NyCAePpW1gA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_v1fJUAkXEemb47wkxQDoZA" name="requirements" guid="_v1fJUAkXEemb47wkxQDoZA" presentationName="需求说明" briefDescription="需求说明" templates="_n286kAkZEemb47wkxQDoZA">
+            <methodElementProperty xmi:id="_Gw-0sAkYEemb47wkxQDoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Z5jhjBRPxjO85V5CLSKOSA" href="uma://-Z5jhjBRPxjO85V5CLSKOSA#-Z5jhjBRPxjO85V5CLSKOSA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_n286kAkZEemb47wkxQDoZA" name="需求说明模板" guid="_n286kAkZEemb47wkxQDoZA" presentationName="需求说明模板" briefDescription="需求说明模板">
+            <methodElementProperty xmi:id="_zYH3sAkZEemb47wkxQDoZA" name="me_edited" value="true"/>
+            <presentation xmi:id="-3otDd0BtKzEMG6iIdwOW0Q" href="uma://-3otDd0BtKzEMG6iIdwOW0Q#-3otDd0BtKzEMG6iIdwOW0Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="_ING7wAnZEemmH8QRWd_T5A" name="quality_manual" guid="_ING7wAnZEemmH8QRWd_T5A" presentationName="Quality Manual" briefDescription="质量手册">
+            <methodElementProperty xmi:id="_YMGIAAnZEemmH8QRWd_T5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-8Ny8U2GS77p1RpIuoj9HWA" href="uma://-8Ny8U2GS77p1RpIuoj9HWA#-8Ny8U2GS77p1RpIuoj9HWA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7yML0AnbEemmH8QRWd_T5A" name="系统设计" guid="_7yML0AnbEemmH8QRWd_T5A" presentationName="系统设计" briefDescription="系统设计" performedBy="_nxvgAPg4EeaYAN_Q8vCkZg" mandatoryInput="_v1fJUAkXEemb47wkxQDoZA" output="_aXjLkAncEemmH8QRWd_T5A">
+            <methodElementProperty xmi:id="_p5KfUAncEemmH8QRWd_T5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-WTJNqmLT3ksBGul_mTZqng" href="uma://-WTJNqmLT3ksBGul_mTZqng#-WTJNqmLT3ksBGul_mTZqng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_aXjLkAncEemmH8QRWd_T5A" name="系统设计说明" guid="_aXjLkAncEemmH8QRWd_T5A" presentationName="系统设计说明" briefDescription="系统设计说明" templates="_n286kAkZEemb47wkxQDoZA">
+            <methodElementProperty xmi:id="_drQYAAncEemmH8QRWd_T5A" name="me_edited" value="true"/>
+            <presentation xmi:id="-Yio6w06S2Z72gRADpXCQuQ" href="uma://-Yio6w06S2Z72gRADpXCQuQ#-Yio6w06S2Z72gRADpXCQuQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1u2xcAkMEemTptEb5bN04Q" name="terms" guid="_1u2xcAkMEemTptEb5bN04Q" presentationName="术语和定义" briefDescription="术语和定义">
+          <methodElementProperty xmi:id="_1u3_kAkMEemTptEb5bN04Q" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_5Dl4oAkMEemTptEb5bN04Q" name="pakage_supporting" value="true"/>
+          <methodElementProperty xmi:id="_8pqncAkMEemTptEb5bN04Q" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_qgmP4AYEEemBFoVqvOToZg" name="qms" guid="_qgmP4AYEEemBFoVqvOToZg" presentationName="QMS">
+            <methodElementProperty xmi:id="_5QS-gAYEEemBFoVqvOToZg" name="me_edited" value="true"/>
+            <presentation xmi:id="-3nnHKjcfGBaYm7Rl7p6eow" href="uma://-3nnHKjcfGBaYm7Rl7p6eow#-3nnHKjcfGBaYm7Rl7p6eow"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_bYdugAtnEemjTKGL03JasA" name="apqp" guid="_bYdugAtnEemjTKGL03JasA" presentationName="apqp">
+            <methodElementProperty xmi:id="_di7a8AtnEemjTKGL03JasA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gDDhKW1wBSQdU3T8jTEdPg" href="uma://-gDDhKW1wBSQdU3T8jTEdPg#-gDDhKW1wBSQdU3T8jTEdPg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_eWSxkAtnEemjTKGL03JasA" name="spc" guid="_eWSxkAtnEemjTKGL03JasA" presentationName="spc">
+            <methodElementProperty xmi:id="_f6w1AAtnEemjTKGL03JasA" name="me_edited" value="true"/>
+            <presentation xmi:id="-wPdNWWhjrIn8db_r8xRa9A" href="uma://-wPdNWWhjrIn8db_r8xRa9A#-wPdNWWhjrIn8db_r8xRa9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_g5lNsAtnEemjTKGL03JasA" name="msa" guid="_g5lNsAtnEemjTKGL03JasA" presentationName="msa">
+            <methodElementProperty xmi:id="_ialtcAtnEemjTKGL03JasA" name="me_edited" value="true"/>
+            <presentation xmi:id="-d_aAPJuY60xPR8abtdOzmw" href="uma://-d_aAPJuY60xPR8abtdOzmw#-d_aAPJuY60xPR8abtdOzmw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_jPeHAAtnEemjTKGL03JasA" name="fmea" guid="_jPeHAAtnEemjTKGL03JasA" presentationName="fmea">
+            <methodElementProperty xmi:id="_kn0aAAtnEemjTKGL03JasA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gfao0cnM-KyK8Bgu70NBdg" href="uma://-gfao0cnM-KyK8Bgu70NBdg#-gfao0cnM-KyK8Bgu70NBdg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NHyYAAkTEemb47wkxQDoZA" name="copyright" guid="_NHyYAAkTEemb47wkxQDoZA" presentationName="版权信息">
+          <methodElementProperty xmi:id="_NHy_EAkTEemb47wkxQDoZA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_O7w3EAkTEemb47wkxQDoZA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_R70QsLgfEeiUk4uhAHDtzQ" name="copyright" guid="_R70QsLgfEeiUk4uhAHDtzQ" presentationName="版权信息" briefDescription="CopyRight">
+            <methodElementProperty xmi:id="_YZZYILgfEeiUk4uhAHDtzQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fGIJM7umHd9KPq54or9kNQ" href="uma://-fGIJM7umHd9KPq54or9kNQ#-fGIJM7umHd9KPq54or9kNQ"/>
           </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IG9lzfg3EeaYAN_Q8vCkZg" name="CapabilityPatterns" guid="_IG9lzfg3EeaYAN_Q8vCkZg">
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_OF52EN6JEeeh_oWj-BfUcQ" href="uma://_OF52EN6JEeeh_oWj-BfUcQ#_OF52EN6JEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_qHkKAN6JEeeh_oWj-BfUcQ" href="uma://_qHkKAN6JEeeh_oWj-BfUcQ#_qHkKAN6JEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_9Dr1wN6JEeeh_oWj-BfUcQ" href="uma://_9Dr1wN6JEeeh_oWj-BfUcQ#_9Dr1wN6JEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_bb9bwN6KEeeh_oWj-BfUcQ" href="uma://_bb9bwN6KEeeh_oWj-BfUcQ#_bb9bwN6KEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_m5f2EN6KEeeh_oWj-BfUcQ" href="uma://_m5f2EN6KEeeh_oWj-BfUcQ#_m5f2EN6KEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_DS24UN6LEeeh_oWj-BfUcQ" href="uma://_DS24UN6LEeeh_oWj-BfUcQ#_DS24UN6LEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_m4q6MN6LEeeh_oWj-BfUcQ" href="uma://_m4q6MN6LEeeh_oWj-BfUcQ#_m4q6MN6LEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_uBGVcN6LEeeh_oWj-BfUcQ" href="uma://_uBGVcN6LEeeh_oWj-BfUcQ#_uBGVcN6LEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_90ZPEN6LEeeh_oWj-BfUcQ" href="uma://_90ZPEN6LEeeh_oWj-BfUcQ#_90ZPEN6LEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_UglTIN6MEeeh_oWj-BfUcQ" href="uma://_UglTIN6MEeeh_oWj-BfUcQ#_UglTIN6MEeeh_oWj-BfUcQ"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_magiEN6MEeeh_oWj-BfUcQ" href="uma://_magiEN6MEeeh_oWj-BfUcQ#_magiEN6MEeeh_oWj-BfUcQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_aRzEoAqnEemmH8QRWd_T5A" href="uma://_aRzEoAqnEemmH8QRWd_T5A#_aRzEoAqnEemmH8QRWd_T5A"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Bjz58A2yEemaPdAhYonWNg" name="misc" guid="_Bjz58A2yEemaPdAhYonWNg">
+          <methodElementProperty xmi:id="_Bjz58Q2yEemaPdAhYonWNg" name="pkg_loadCheck" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_OF52EN6JEeeh_oWj-BfUcQ" href="uma://_OF52EN6JEeeh_oWj-BfUcQ#_OF52EN6JEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_qHkKAN6JEeeh_oWj-BfUcQ" href="uma://_qHkKAN6JEeeh_oWj-BfUcQ#_qHkKAN6JEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_magiEN6MEeeh_oWj-BfUcQ" href="uma://_magiEN6MEeeh_oWj-BfUcQ#_magiEN6MEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_9Dr1wN6JEeeh_oWj-BfUcQ" href="uma://_9Dr1wN6JEeeh_oWj-BfUcQ#_9Dr1wN6JEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_bb9bwN6KEeeh_oWj-BfUcQ" href="uma://_bb9bwN6KEeeh_oWj-BfUcQ#_bb9bwN6KEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_m5f2EN6KEeeh_oWj-BfUcQ" href="uma://_m5f2EN6KEeeh_oWj-BfUcQ#_m5f2EN6KEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_DS24UN6LEeeh_oWj-BfUcQ" href="uma://_DS24UN6LEeeh_oWj-BfUcQ#_DS24UN6LEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_m4q6MN6LEeeh_oWj-BfUcQ" href="uma://_m4q6MN6LEeeh_oWj-BfUcQ#_m4q6MN6LEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_uBGVcN6LEeeh_oWj-BfUcQ" href="uma://_uBGVcN6LEeeh_oWj-BfUcQ#_uBGVcN6LEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_90ZPEN6LEeeh_oWj-BfUcQ" href="uma://_90ZPEN6LEeeh_oWj-BfUcQ#_90ZPEN6LEeeh_oWj-BfUcQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_UglTIN6MEeeh_oWj-BfUcQ" href="uma://_UglTIN6MEeeh_oWj-BfUcQ#_UglTIN6MEeeh_oWj-BfUcQ"/>
+        </childPackages>
       </childPackages>
     </methodPackages>
-    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IG9lzvg3EeaYAN_Q8vCkZg" name="DeliveryProcesses" guid="_IG9lzvg3EeaYAN_Q8vCkZg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IG9lzvg3EeaYAN_Q8vCkZg" name="DeliveryProcesses" guid="_IG9lzvg3EeaYAN_Q8vCkZg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_LRaSkA2wEemaPdAhYonWNg" name="特殊产品研制" guid="_LRaSkA2wEemaPdAhYonWNg">
+        <methodElementProperty xmi:id="_LRcu0A2wEemaPdAhYonWNg" name="pkg_loadCheck" value="true"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_zcgw8AeDEem7F83J7on-SA" href="uma://_zcgw8AeDEem7F83J7on-SA#_zcgw8AeDEem7F83J7on-SA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_Jo61UA2xEemaPdAhYonWNg" href="uma://_Jo61UA2xEemaPdAhYonWNg#_Jo61UA2xEemaPdAhYonWNg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_QinRAA2xEemaPdAhYonWNg" href="uma://_QinRAA2xEemaPdAhYonWNg#_QinRAA2xEemaPdAhYonWNg"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MmP-kA2wEemaPdAhYonWNg" name="民品研制" guid="_MmP-kA2wEemaPdAhYonWNg">
+        <methodElementProperty xmi:id="_MmP-kQ2wEemaPdAhYonWNg" name="pkg_loadCheck" value="true"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_gccj4AeEEem7F83J7on-SA" href="uma://_gccj4AeEEem7F83J7on-SA#_gccj4AeEEem7F83J7on-SA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="__jcaIA2wEemaPdAhYonWNg" href="uma://__jcaIA2wEemaPdAhYonWNg#__jcaIA2wEemaPdAhYonWNg"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_XMPa8A2yEemaPdAhYonWNg" name="快速研发" guid="_XMPa8A2yEemaPdAhYonWNg">
+        <methodElementProperty xmi:id="_XMPa8Q2yEemaPdAhYonWNg" name="pkg_loadCheck" value="true"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_s9U-IA2xEemaPdAhYonWNg" href="uma://_s9U-IA2xEemaPdAhYonWNg#_s9U-IA2xEemaPdAhYonWNg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_bbcmUA2yEemaPdAhYonWNg" href="uma://_bbcmUA2yEemaPdAhYonWNg#_bbcmUA2yEemaPdAhYonWNg"/>
+      </childPackages>
+    </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IG9lz_g3EeaYAN_Q8vCkZg" name="ProcessContributions" guid="_IG9lz_g3EeaYAN_Q8vCkZg"/>
   </org.eclipse.epf.uma:MethodPlugin>
 </xmi:XMI>

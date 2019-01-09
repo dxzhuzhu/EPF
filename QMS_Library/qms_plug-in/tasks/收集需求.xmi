@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S_fgzAA5Rcd41DomGxPVUg" name="new_task,_9WQrAAeIEem7F83J7on-SA" guid="-S_fgzAA5Rcd41DomGxPVUg" authors="dxzhuzhu" changeDate="2018-12-26T20:59:32.058+0800" changeDescription="init" version="1.0.0">
+  <mainDescription>收集需求</mainDescription>
+  <keyConsiderations>收集需求</keyConsiderations>
+  <purpose>收集需求</purpose>
+  <alternatives>&lt;p>&#xD;
+    收集需求&#xD;
+&lt;/p></alternatives>
+</org.eclipse.epf.uma:TaskDescription>

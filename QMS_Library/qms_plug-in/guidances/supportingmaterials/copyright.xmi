@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fGIJM7umHd9KPq54or9kNQ" name="new_supporting_material,_R70QsLgfEeiUk4uhAHDtzQ" guid="-fGIJM7umHd9KPq54or9kNQ" changeDate="2018-09-14T21:09:00.175+0800">
-  <mainDescription>CopyRight&amp;nbsp;by dxzhuzhu</mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fGIJM7umHd9KPq54or9kNQ" name="new_supporting_material,_R70QsLgfEeiUk4uhAHDtzQ" guid="-fGIJM7umHd9KPq54or9kNQ" authors="dxzhuzhu" changeDate="2018-12-28T23:17:36.602+0800" version="1.0.0">
+  <mainDescription>&lt;p>&#xD;
+    CopyRight&amp;copy;dxzhuzhu. 2017,2018. 仅供ISO9000质量体系研究之用途。 使用过程中若有任何疑问，请联系dxzhuzhu，email：&lt;a&#xD;
+    href=&quot;mailto:dxzhuzhu@126.com&quot;>dxzhuzhu@126.com&lt;/a>&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

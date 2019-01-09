@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Z5jhjBRPxjO85V5CLSKOSA" name="new_artifact,_v1fJUAkXEemb47wkxQDoZA" guid="-Z5jhjBRPxjO85V5CLSKOSA" authors="dxzhuzhu" changeDate="2018-12-26T22:09:52.376+0800" changeDescription="init" version="1.0.0">
+  <mainDescription>需求说明</mainDescription>
+  <keyConsiderations>需求说明</keyConsiderations>
+  <purpose>需求说明</purpose>
+  <impactOfNotHaving>需求说明</impactOfNotHaving>
+  <reasonsForNotNeeding>需求说明</reasonsForNotNeeding>
+  <briefOutline>需求说明</briefOutline>
+  <representationOptions>需求说明</representationOptions>
+  <representation>需求说明</representation>
+  <notation>需求说明</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

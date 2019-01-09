@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3otDd0BtKzEMG6iIdwOW0Q" name="new_template,_n286kAkZEemb47wkxQDoZA" guid="-3otDd0BtKzEMG6iIdwOW0Q" authors="dxzhuzhu" changeDate="2018-12-26T22:23:01.422+0800" changeDescription="init" version="1.0.0">
+  <mainDescription>需求说明模板</mainDescription>
+  <attachments>resources/需求说明模板.txt</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

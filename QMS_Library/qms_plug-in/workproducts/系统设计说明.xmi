@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Yio6w06S2Z72gRADpXCQuQ" name="系统设计说明,_aXjLkAncEemmH8QRWd_T5A" guid="-Yio6w06S2Z72gRADpXCQuQ" authors="dxzhuzhu" changeDate="2018-12-29T20:49:45.648+0800" changeDescription="init" version="1.0.0">
+  <mainDescription>系统设计说明</mainDescription>
+  <keyConsiderations>系统设计说明</keyConsiderations>
+  <purpose>系统设计说明</purpose>
+  <impactOfNotHaving>架构设计说明</impactOfNotHaving>
+  <reasonsForNotNeeding>架构设计说明</reasonsForNotNeeding>
+  <briefOutline>架构设计说明</briefOutline>
+  <representationOptions>架构设计说明</representationOptions>
+  <representation>架构设计说明</representation>
+  <notation>架构设计说明</notation>
+</org.eclipse.epf.uma:ArtifactDescription>

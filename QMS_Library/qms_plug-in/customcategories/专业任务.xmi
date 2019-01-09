@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3IJMvwLxHcXHsm9Sn946Hg" name="专业任务,_jg9LgPVhEei8dJZ1rYi-_Q" guid="-3IJMvwLxHcXHsm9Sn946Hg" authors="dxzhuzhu" changeDate="2019-01-01T19:42:56.571+0800" changeDescription="init" version="1.0.0">
+  <copyrightStatement href="uma://_IG9lwPg3EeaYAN_Q8vCkZg#_R70QsLgfEeiUk4uhAHDtzQ"/>
+  <mainDescription>专业任务</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
